@@ -26,6 +26,7 @@ def get_job_ids(page_id):
     # Extract the value of the data-job-id attribute from each selected <li> element
     data_job_ids = [li.get('data-job-id') for li in selected_li_elements]
 
+    # #Uncomment this for debugging if number wasn't right.
     # # Specify the path where you want to save the JSON data
     # output_file_path = f'job_ids_page_{page_id}.json'
 
@@ -39,14 +40,14 @@ def get_job_ids(page_id):
 all_job_ids = []
 
 # Iterate through pages 1 to 501
-for page_id in range(59, 90):
+for page_id in range(1, 502):
     job_ids = get_job_ids(page_id)
     all_job_ids.extend(job_ids)
 
 # Save all job IDs in a single JSON file
 output_file_path = 'all_job_ids.json'
 with open(output_file_path, 'w') as json_file:
-    json.dump(all_job_ids, json_file)
+    json.dump(all_job_ids, json_file,indent=4)
 
 # Now, all job IDs are saved in a single JSON file named 'all_job_ids.json'
 
