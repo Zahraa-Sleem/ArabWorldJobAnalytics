@@ -4,18 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Read the JSON file as a list of job IDs
-with open("all_job_ids.json", "r") as json_file:
-    job_ids = json.load(json_file)
 
-# Initialize an empty list to store job data
-job_data_list = []
-
-# Initialize the WebDriver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-
-# Loop through each job ID
-for job_id in job_ids:
+def get_job_info(job_id):
     job_url = f'https://www.bayt.com/en/international/jobs/?jobId={job_id}'
     driver.get(job_url)
 
@@ -43,9 +33,21 @@ for job_id in job_ids:
             info_dict[dt_element.text] = dd_element.text
         except:
             pass
-
     # Add the job data dictionary to the list
     job_data_list.append({"Job ID": job_id, "Data": info_dict})
+
+    
+# Read the JSON file as a list of job IDs
+with open("all_job_ids.json", "r") as json_file:
+    job_ids = json.load(json_file)
+
+# Initialize an empty list to store job data
+job_data_list = []
+
+# Initialize the WebDriver
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+
+[get_job_info(id) for id in job_ids]
 
 # Save the job data list to a JSON file
 with open("job_data.json", "w", encoding="utf-8") as json_file:
