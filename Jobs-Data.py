@@ -5,15 +5,19 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-def get_job_info(job_id):
+def get_job_info(job_id, driver):
+    print("Job Id", job_id)
+    # Getting the url
     job_url = f'https://www.bayt.com/en/international/jobs/?jobId={job_id}'
     driver.get(job_url)
 
+    # Accessing the parent element
     while True:
         try:
             parent_element = driver.find_element(By.XPATH, '//*[@id="view_inner"]/div/div[2]/dl[1]')
             break
-        except:
+        except Exception as e:
+            print(f"Error: {e}")
             pass
 
     # Find child elements within the <dl> element
@@ -34,24 +38,42 @@ def get_job_info(job_id):
         except:
             pass
     # Add the job data dictionary to the list
-    job_data_list.append({"Job ID": job_id, "Data": info_dict})
+    job_data = {"Job ID": job_id, "Data": info_dict}
 
-    
+    # Open the JSON file in append mode and write the job data
+    with open("job_data.json", "a", encoding="utf-8") as json_file:
+        json.dump(job_data, json_file, ensure_ascii=False,indent=4)
+        json_file.write(",")
+
 # Read the JSON file as a list of job IDs
 with open("all_job_ids.json", "r") as json_file:
     job_ids = json.load(json_file)
 
-# Initialize an empty list to store job data
-job_data_list = []
+# Initialize jobsloaded as an empty list
+jobsloaded = []
+
+# Check if the "job_data.json" file exists and is not empty
+try:
+    with open('job_data.json', 'r') as input_file:
+        for line in input_file:
+            if line.strip():  # Check if the line is not empty
+                job_data = json.loads(line)
+                jobsloaded.append(job_data)
+except (FileNotFoundError, json.decoder.JSONDecodeError):
+    # Handle the case where the file doesn't exist or is empty
+    pass
+
+# Extract existing Job IDs from loaded data
+existing_ids = [job['Job ID'] for job in jobsloaded]
+
+# Find new Job IDs that haven't been loaded
+new_ids = [job_id for job_id in job_ids if job_id not in existing_ids]
 
 # Initialize the WebDriver
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
-[get_job_info(id) for id in job_ids]
+# Iterate over new job IDs and get job information
+[get_job_info(id,driver) for id in new_ids]
 
-# Save the job data list to a JSON file
-with open("job_data.json", "w", encoding="utf-8") as json_file:
-    json.dump(job_data_list, json_file, ensure_ascii=False, indent=4)
-
-# Quit the WebDriver
+# Quit the WebDriver after all new jobs have been processed
 driver.quit()
