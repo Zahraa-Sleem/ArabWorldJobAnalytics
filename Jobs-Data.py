@@ -3,78 +3,86 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+import os
+import time
 
-from selenium.webdriver.common.by import By
+def get_scraped_ids(folder_name):
+    
+    # Specify the directory path you want to list files from
+    directory_path = folder_name
+
+    # Use the os.listdir() function to get a list of all files and directories in the specified directory
+    all_files_and_directories = os.listdir(directory_path)
+    
+    # Iterate through the list and filter out only the files (excluding directories)
+    ids = [file.split('.')[0] for file in all_files_and_directories if os.path.isfile(os.path.join(directory_path, file))]
+
+    return ids
+
+
+def get_element_by_xpath(driver,xpath):
+    while True:
+            try:
+                # Find the starting point for job description
+                obj = driver.find_element(By.XPATH, xpath)
+                return obj
+            except Exception as e:
+                time.sleep(1)
+                # print(f"Error: {e}")
+                pass
 
 def get_job_info(driver, job_id):
-    print("Job Id", job_id)
     
+    print("Opened page",job_id)
     # Getting the URL
     job_url = f'https://www.bayt.com/en/international/jobs/?jobId={job_id}'
     driver.get(job_url)
     
     job_description = ""  # Initialize the job description string
     skills = []  # Initialize the skills list
+    skills_start="Not found"
     
-    while True:
-        try:
-            # Find the starting point for job description
-            job_description_start = driver.find_element(By.XPATH, '//*[@id="view_inner"]/div/div[2]/h2[2]')
-            break
-        except Exception as e:
-            print(f"Error: {e}")
-            pass
+    if "Job Details" in get_element_by_xpath(driver,'//*[@id="view_inner"]/div/div[2]/h2[2]').text:
+        print("Job Description is h2[1]")
+        job_description_start=get_element_by_xpath(driver,'//*[@id="view_inner"]/div/div[2]/h2[1]')
+    else:
+        print("Job Description is h2[2]")
+        job_description_start=get_element_by_xpath(driver,'//*[@id="view_inner"]/div/div[2]/h2[2]')
         
     # Iterate through siblings
-    current_element = job_description_start
+    current_element = job_description_start.find_element(By.XPATH, "./following-sibling::*")
     while current_element is not None:
-        # Check if the current element is a <p> tag
-        if current_element.tag_name == "p":
-            # Add the text of the <p> tag to the job description
-            job_description += current_element.text
-            # Check if the <p> tag contains a <br>, add a newline character
-            if "<br>" in current_element.get_attribute("innerHTML"):
-                job_description += "\n"
+        job_description += current_element.text
         
-        # Check if we've reached the "Skills" section
-        if "Skills" in current_element.text:
+        if current_element.tag_name == "h2" and "Skills" in current_element.text:
+            print("Job Description",job_description)
             skills_start = current_element
+            print("Skills Start",skills_start)
+            break
+        elif current_element.tag_name == "h2" and "Job Details" in current_element.text:
+            print("Job Description",job_description)
+            print("Skills Start",skills_start)
             break
         
         # Move to the next sibling
         current_element = current_element.find_element(By.XPATH, "./following-sibling::*")
     
-    # Iterate through siblings starting from the "Skills" section
-    current_element = skills_start
-    while current_element is not None:
-        # Check if the current element is a <p> tag
-        if current_element.tag_name == "p":
-            # Check if the <p> tag contains a <br>, add nothing
-            if "<br>" not in current_element.get_attribute("innerHTML"):
-                # Add the text of the <p> tag to the skills list
+    if skills_start!="Not found":
+        # Iterate through siblings starting from the "Skills" section
+        current_element = skills_start.find_element(By.XPATH, "./following-sibling::*")
+        while current_element is not None:
+            # Check if we've reached the "Job Details" section
+            if current_element.tag_name=="h2" and "Job Details" in current_element.text:
+                print("Skills",skills)
+                break
+            elif(current_element.text != ""):
                 skills.append(current_element.text)
-        elif current_element.tag_name == "ul":
-            skill_items = current_element.find_elements(By.TAG_NAME, "li")
-            for item in skill_items:
-                if "<br>" not in item.get_attribute("innerHTML"):
-                    skills.append(item.text)
             
-        # Check if we've reached the "Job Details" section
-        if "Job Details" in current_element.text:
-            break
-        
-        # Move to the next sibling
-        current_element = current_element.find_element(By.XPATH, "./following-sibling::*")
-    
-    # Accessing the parent element for details
-    while True:
-        try:
-            parent_element_details = driver.find_element(By.XPATH, '//*[@id="view_inner"]/div/div[2]/dl[1]')
-            break
-        except Exception as e:
-            print(f"Error: {e}")
-            pass
-    
+            current_element = current_element.find_element(By.XPATH, "./following-sibling::*")
+
+
+    parent_element_details=get_element_by_xpath(driver,'//*[@id="view_inner"]/div/div[2]/dl[1]')
+     
     # Find child elements within the <dl> element
     child_elements_details = parent_element_details.find_elements(By.XPATH, ".//*")
     
@@ -92,41 +100,59 @@ def get_job_info(driver, job_id):
         except:
             pass
     
-    # Accessing the parent element for preferred
-    while True:
-        try:
-            parent_element_preffered = driver.find_element(By.XPATH, '//*[@id="view_inner"]/div/div[2]/dl[2]')
-            break
-        except Exception as e:
-            print(f"Error: {e}")
-            pass
+    print("Info Dict General",info_dict_general)
     
-    # Find child elements within the <dl> element
-    child_elements_preffered = parent_element_preffered.find_elements(By.XPATH, ".//*")
-    
-    # Create a dictionary to store the extracted information concerning preferred
+    parent_element_preffered=False
     info_dict_preffered = {}
+    preferred=False
     
-    for child in child_elements_preffered:
-        try:
-            # Extract the <dt> and <dd> elements
-            dt_element = child.find_element(By.TAG_NAME, "dt")
-            dd_element = child.find_element(By.TAG_NAME, "dd")
+    try:
+        #Check if preferred candidate details are found
+        preferred=parent_element_details.find_element(By.XPATH, "./following-sibling::*").tag_name=="h2" and parent_element_details.find_element(By.XPATH, "./following-sibling::*").text=="Preferred Candidate"
+    except:
+        pass
+    
+    if preferred:
+        print("Preferred found")
+        parent_element_preffered=get_element_by_xpath(driver,'//*[@id="view_inner"]/div/div[2]/dl[2]')
 
-            # Get the text content of <dt> and <dd> elements and add it to the dictionary
-            info_dict_preffered[dt_element.text] = dd_element.text
-        except:
-            pass
+    
+    if parent_element_preffered:
+        # Find child elements within the <dl> element
+        child_elements_preffered = parent_element_preffered.find_elements(By.XPATH, ".//*")
+        
+        for child in child_elements_preffered:
+            try:
+                # Extract the <dt> and <dd> elements
+                dt_element = child.find_element(By.TAG_NAME, "dt")
+                dd_element = child.find_element(By.TAG_NAME, "dd")
+
+                # Get the text content of <dt> and <dd> elements and add it to the dictionary
+                info_dict_preffered[dt_element.text] = dd_element.text
+            except:
+                pass
     
     # Add the job data dictionary to the list
     job_data = {"Job ID": job_id,"Description":job_description, "Skills":skills,"Preferred":info_dict_preffered, "Data": info_dict_general}
 
-    print(job_data)
-    
-    
+    with open(f'data_store/{job_id}.json', "w", encoding="utf-8") as json_file:
+        json.dump(job_data, json_file, ensure_ascii=False, indent=4)
 
-# Initialize the WebDriver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-get_job_info(driver,69872937)
-# Quit the WebDriver after all new jobs have been processed
-driver.quit()
+
+
+if __name__=="__main__":   
+    # Read the JSON file as a list of job IDs
+    with open("all_job_ids.json", "r") as json_file:
+        job_ids = json.load(json_file)
+
+    
+    # Find new Job IDs that haven't been loaded
+    new_ids = [job_id for job_id in job_ids if job_id not in get_scraped_ids('data_store')]
+
+    # Initialize the WebDriver
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+
+    [get_job_info(driver,id) for id in new_ids]
+
+    # Quit the WebDriver after all new jobs have been processed
+    driver.quit()
