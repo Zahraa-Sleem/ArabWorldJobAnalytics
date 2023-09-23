@@ -17,6 +17,8 @@ def get_scraped_ids(folder_name):
     # Iterate through the list and filter out only the files (excluding directories)
     ids = [file.split('.')[0] for file in all_files_and_directories if os.path.isfile(os.path.join(directory_path, file))]
 
+    print("IDS DONE")
+    
     return ids
 
 
@@ -37,6 +39,7 @@ def get_job_info(driver, job_id):
     # Getting the URL
     job_url = f'https://www.bayt.com/en/international/jobs/?jobId={job_id}'
     driver.get(job_url)
+    
     
     job_description = ""  # Initialize the job description string
     skills = []  # Initialize the skills list
@@ -140,15 +143,21 @@ def get_job_info(driver, job_id):
 
 
 
-if __name__=="__main__":   
+if __name__=="__main__":  
+    print("Reading job ids") 
     # Read the JSON file as a list of job IDs
     with open("all_job_ids.json", "r") as json_file:
         job_ids = json.load(json_file)
 
-    
-    # Find new Job IDs that haven't been loaded
-    new_ids = [job_id for job_id in job_ids if job_id not in get_scraped_ids('data_store')]
+    print("Getting New Ids")
+    # Call get_scraped_ids once and store the result in a variable
+    scraped_ids = get_scraped_ids('data_store')
 
+    # Use the result in the list comprehension
+    new_ids = [job_id for job_id in job_ids if job_id not in scraped_ids]
+
+
+    print("Initializing driver")
     # Initialize the WebDriver
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
