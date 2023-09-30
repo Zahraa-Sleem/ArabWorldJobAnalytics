@@ -1,0 +1,27 @@
+{
+    "Job ID": "4722649",
+    "Description": "Skills",
+    "Skills": [
+        "Requirement :",
+        "- Bachelor's Degree",
+        "- Very Good command of English.",
+        "- Good command of Microsoft Office .",
+        "- At least 5 years Experience",
+        "-Must have car license",
+        "- Male only"
+    ],
+    "Preferred": {
+        "Gender": "Male",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Min: 26 Max: 37"
+    },
+    "Data": {
+        "Job Location": "Cairo, Egypt",
+        "Company Industry": "Construction & Building",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Secretarial",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "2"
+    }
+}

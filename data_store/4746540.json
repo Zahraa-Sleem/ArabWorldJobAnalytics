@@ -1,0 +1,36 @@
+{
+    "Job ID": "4746540",
+    "Description": "We are recruiting for a Dynamics 365 Finance and Operation Techno Functional person with expertise in Power BI. The objective of this role is to design and develop new functionalities, enhance the existing features, maintain, and support business processes in D365 F&O environment and develop business intelligence reports using Microsoft Power BI, SQL Server, and Azure technologies.KEYACCOUNTABILITIES& ACTIVITIESResponsibilities:• Design, develop, configure, and customize Dynamics 365 F&O / Power Apps applications and services to deliver new functionality and capabilities.• Collect the reporting requirements from the key stakeholder of the business; design, develop and maintain Business intelligence reports using Microsoft Power BI, SQL queries, SQL Server Analysis Service (SSAS), and Microsoft Azure technologies such as Azure Data Lake, Azure Synapse Analytics and Azure Data Factory by extracting data from different data sources.• Liaisewithbusinessdepartmentsandunderstandbusinessprocessesandensurethese are correctly mapped with the system. Analyze business requirements and recommend implementation approach. • PrototypingandconfiguringMicrosoftDynamics365processesthatmakethebusiness systems run smoothly and swiftly.• Create Microsoft flows and integration between modules mainly PSA to FinOps and resolve flows/integration errors.• Document the process, and train users the features of Dynamics 365 F&O.• Create,configure,andsupportPowerApps,PowerAutomateworkflows&PowerBi dashboards.Skills",
+    "Skills": [
+        "Experience:",
+        "• Minimum5years of experience inD365Finance and Operation and Power BI",
+        "PreferredSkills:",
+        "• Strong F&O product knowledge.",
+        "• Experience designing and customizing F&O application.",
+        "• Proficiency in X++, Data Management, SSAS, SSRS, Security framework.",
+        "• Experience with D365F&O interfacing and integration.",
+        "• Strong knowledge in writing SQL queries and procedure.",
+        "• Proficiency in Microsoft Power BI, Data Warehousing.",
+        "• Knowledge in Azure Synapse Analytics and Azure Data Factory.",
+        "• Knowledge in Power Apps and Power Automate.",
+        "Qualifications",
+        "• Bachelor / master’s degree in computer science, or related fields. ",
+        "• Certifications in Dynamics 365 F&O, Power Platform."
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 5",
+        "Gender": "Male",
+        "Nationality": "India",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Max: 40"
+    },
+    "Data": {
+        "Job Location": "Al Ahmadi, Kuwait",
+        "Company Industry": "Retail & Wholesale",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$2,000 - $3,000",
+        "Number of Vacancies": "1"
+    }
+}

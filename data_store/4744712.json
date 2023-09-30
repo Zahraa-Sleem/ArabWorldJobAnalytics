@@ -1,0 +1,28 @@
+{
+    "Job ID": "4744712",
+    "Description": "Job SummaryThe Data Quality Assurance Analyst's main focus is on developing Data Governance policies, enforcing them, documenting data in Data Catalog, developing Data Governance metrics, assisting Data Architect in developing Data Models and discovering data sources.Key AccountabilitiesDevelop Data Governance policies around: data lifecycle, data retention, model governance, regulatory reporting, business reporting, data documentation, data quality, metadata management, data classification.\nEnsure Data Governance policies are addressed to responsible units: business, IT, Operations, Risk, Compliance.\nDevelop Data Governance metrics and monitor them.\nMake sure Data Governance KPI’s are met within assigned domain.\nDocument Data Assets in Data Catalog, ensure Data Lineage is accurate.\nDiscover and document data in Source Systems. Assist Data Architects in developing Data Models.\nCommunicate with Source system owners, Project Management Office, Data Team and Business units to ensure documentation in Data Catalog is correct and up to date.Skills",
+    "Skills": [
+        "Other Accountabilities",
+        "Business Analytics\nData Quality\nStrong analytical and problem-solving skills and attention to details",
+        "Software and Tools knowledge",
+        "SQL – Advanced user (Stored Procedures, Window functions, Temp Tables, Recursive Queries)\nPython – Basic Automation\nKnowledge (at least one of) DQ platforms is a plus: IBM WKC+DataStage, Ataccama DQ, Infomatica DQ Platform",
+        "Required Experience",
+        "Experience either with Technical Stack mentioned and/or one of the Business domains within bank – Retail/Wholesale/Risk/Finance/Compliance etc.\nUnderstanding of the process of creating the reporting.\nExperience in Finance/Banking is a plus\nExperience with data governance and data quality tools is a plus.",
+        "Competencies",
+        "Adaptability/Flexibility\nCreativity/Innovation\nDecision Making/Judgment\nDependability\nInitiative\nIntegrity/Ethics\nProblem Solving/Analysis",
+        "Skills",
+        "Ability to interact with internal and external stakeholders\nAbility to work under pressure\nAccuracy and attention to detail",
+        "Education",
+        "Bachelor’s degree in Computer Science or equivalent"
+    ],
+    "Preferred": {},
+    "Data": {
+        "Job Location": "Qatar",
+        "Company Industry": "Banking",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

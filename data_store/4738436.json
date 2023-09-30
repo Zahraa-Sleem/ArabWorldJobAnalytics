@@ -1,0 +1,19 @@
+{
+    "Job ID": "4738436",
+    "Description": "Review Put away à Move items from Inbound Locations and place them on shelf to become active inventory.\nEnsure FIFO is maintained in floor organization.\nManage Batch Creation for Outward Movement of Stock\nManage Picking Assignments à Set a criterion for pickers to ensure fast, accurate picking\nIn case of inventory is short with items à Dedicate team member to react to find the items for the customer order, Fix the existing stock for the upcoming orders.\nStock Movement à Prepare stock movement reports and monitor the movement.\nManage and Review Cycle Count\nReview Transfer Orders Between Boutiqaats’ warehouses and stock locations\nReview Transfer Orders Reversal.\nReview the Transfer of Damage Stock from Selling Location to Damage Locations.\nManage Purchase Returns with Vendors\nManage Expiry Checks and Validation\nManage Stock Locations and Prepare Capacity Reports.\nManage Free Bins, physically and systematically.\nManage Stock with FEFO (First Expiry First Out) and FIFO (First in First Out) wherever relevant.\nSet criteria for aging stock and for fast moving items.\nEnsure right stock is picked (Lot Mechanism)\nEnsure placing the stock in a right placement\nEnsure segregation of Damaged items (Open Box, Box Damage Only, Full Damage of Product and actively communicate with superiors.\nManage the returned shipments initial receiving process.\nReport the initial RAWBs received to the supervisor for review and comparison with the logistics team data.\nEnsure the implementation of the QC criteria and the put away guidelines set by the supervisor.\nReview the QC-failed items and verify the QC reason.\nCreate the transfer shipment from QCFAIL bin to the sales return damage location after the supervisor’s review.\nReview the tickets in OPEN status created by the Contact Center team and provide the supervisor with the RPC team’s comment (item not received, wrong item, duplicate ticket, etc.)\nEnsure clearing the return unsellable bins (RPASS, RFAIL, REFURBSH, EXPIRE).\nCommunicate with the Contact Center team for manual ticket creation in the case of receiving an item with no ticket created.\nCommunicate with the ERP team for any system support/sync issues.Skills",
+    "Skills": [
+        "Bachelor's degree in business, operations management, or related field.\n3-5 years experience in an operations management role.\nProven leadership and team-building skills.\nExcellent communication, interpersonal, and problem-solving skills.\nHighly organized with strong attention to detail."
+    ],
+    "Preferred": {
+        "Gender": "Male"
+    },
+    "Data": {
+        "Job Location": "Kuwait",
+        "Company Industry": "Internet & E-commerce",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Management",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

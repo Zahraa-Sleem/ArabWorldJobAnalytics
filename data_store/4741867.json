@@ -1,0 +1,24 @@
+{
+    "Job ID": "4741867",
+    "Description": "We are hiring IT Engineers for one of our clients in Doha.Candidates who have the required qualifications and good experience may apply.Skills",
+    "Skills": [
+        "Minimum 3-5 years of experience.\nAcademic Background: Engineer with IT/Network Certifications\nKnowledge in Virtual Machines, Server Management, database/storage, and Networking background.\nPLC knowledge is a plus.\nA Qatar driver's license is preferred.\nNationality: Indian/Filipino\nMale candidates are required\nAge: 35 and below\nWith a valid visa and QID\nResiding in Qatar"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 3 Max: 5",
+        "Residence Location": "Qatar",
+        "Gender": "Male",
+        "Nationality": "India; Philippines",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Max: 35"
+    },
+    "Data": {
+        "Job Location": "Doha, Qatar",
+        "Company Industry": "IT Services",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Information Technology",
+        "Employment Type": "Contractor",
+        "Monthly Salary Range": "$2,000 - $3,000",
+        "Number of Vacancies": "2"
+    }
+}

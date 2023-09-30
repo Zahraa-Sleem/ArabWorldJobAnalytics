@@ -1,0 +1,19 @@
+{
+    "Job ID": "4733161",
+    "Description": "Information and Document Systems is a global technology change and delivery organization comprising nearly 200 individuals located mostly in Switzerland, Poland and Singapore. Providing global capturing and document processing, archiving and retrieval solutions to all business divisions focusing on supporting Legal, Regulatory and Operational functions. ATechnologies and frameworks used:- Development is based on Scala, Java and Javascript language- Our program has implemented Scaled Agile Framework (SAFe) with focus on sub-streams/projects working in SCRUM- JIRA, Confluence, PPM tools, GitHub would be mostly used by you on a daily basis- Event Driven Architecture with Kafka as event store and Kafka Streams for event streaming- Reactive streams for streaming data over HTTP: Akka HTTP/Streams- Non-blocking concurrency: Akka, Monix- FP abstractions: CatsWe are looking for a qualified person to join our team.Your responsibilities as a Scrum Master would be:- Establish and maintain an environment where the Development Team feels safe and can be effective- Remove impediments to the Development Team's progress- Encourage the Development Team to self-organize- Promote trust, courage, focus, commitment, respect and openness within the Development Team- Support Product Owner with ordering of Product Backlog, Feature prioritization and progress tracking of Features- Support Product Owner with Program Increment planning and Program Increment preparation- Ensure a good relationship between the Development Team and the Product Owner (or other project stakeholders, if required)- Orchestrate Scrum Events (e.g. lead Sprint Retrospectives, support/lead Sprint Planning, ensure that Daily Scrum takes place, support Backlog Refinements and Sprint Review sessions)- Support creation of Scrum Artifacts with constant inspection and adaptation approach- You could possibly also contribute to the design and documentation of business requirements, covering regulatory and legal archiving applications in addition to operational functionality to deliver end to end solutions to the project stakeholdersSkills",
+    "Skills": [
+        "- Technical background as for this role we are searching for someone who would understand bigger picture of existing IT solution\n- Master's or Bachelor's degree in project management, communication or social sciences (degree in engineering, computer science or related technical field would be a great advantage)\n- 3 + years of proven experience in Scrum Master field (previous work in any other agile development environment would be a plus)\n- SCRUM framework related certification - e.g. Scrum.org, Scrumalliance.org, Scaledagile.com (other Agile framework related certification would be a plus)\n- Advanced English\nNice-to-Have Skills:\n- Knowledge of Agile frameworks (e.g. Kanban, Scaled Agile Framework, Lean Software Development) would be a plus\n- Experience in the Archiving Domain would be a plus\n- Experience in banking processes would be a plus"
+    ],
+    "Preferred": {
+        "Residence Location": "Qatar"
+    },
+    "Data": {
+        "Job Location": "Doha, Qatar",
+        "Company Industry": "Banking",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

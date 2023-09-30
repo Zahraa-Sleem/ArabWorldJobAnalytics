@@ -1,0 +1,24 @@
+{
+    "Job ID": "4736790",
+    "Description": "خدمة عملاء تاجير السيارتSkills",
+    "Skills": [
+        "حاصل علي بكالوريوس\nحسن السلوك والمظهر\nخبرة اقل من سنة"
+    ],
+    "Preferred": {
+        "Career Level": "Mid Career",
+        "Years of Experience": "Min: 1 Max: 3",
+        "Gender": "Male",
+        "Nationality": "Saudi Arabia",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Min: 25 Max: 35"
+    },
+    "Data": {
+        "Job Location": "Khamis Mushait, Saudi Arabia",
+        "Company Industry": "Motor Vehicle Passenger Transport",
+        "Company Type": "Unspecified",
+        "Job Role": "Administration",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "4"
+    }
+}

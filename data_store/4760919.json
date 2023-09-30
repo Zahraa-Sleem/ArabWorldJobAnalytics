@@ -1,0 +1,24 @@
+{
+    "Job ID": "4760919",
+    "Description": "استقبال الضيوف\nعرض خدمات ومنتجات الشركة\nتنفيذ الخدمات المطلوبة\nالتعامل مع انظمة الشركة\nالتعاملات المالية\nتشغيل الألعاب\nتنظيم وادارة الحشودSkills",
+    "Skills": [
+        "1 - مهارات الاستماع والحديث\n2 - استخدام التكنولوجيا والانترنت\n3 - مهارات التعامل مع العملاء\n4 - مهارات التعاملات المالية واجهزة تحصيل الرسوم"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 0 Max: 3",
+        "Residence Location": "Riyadh, Saudi Arabia",
+        "Gender": "Female",
+        "Nationality": "Saudi Arabia",
+        "Degree": "High school or equivalent",
+        "Age": "Min: 18 Max: 35"
+    },
+    "Data": {
+        "Job Location": "Riyadh, Saudi Arabia",
+        "Company Industry": "Entertainment",
+        "Company Type": "Unspecified",
+        "Job Role": "Customer Service and Call Center",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$1,000 - $1,500",
+        "Number of Vacancies": "20"
+    }
+}

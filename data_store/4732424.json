@@ -1,0 +1,19 @@
+{
+    "Job ID": "4732424",
+    "Description": "We are looking for Data Engineer for Qatar,Duration- 03MonthsResponsibilities:The scope of workOur customer is currently looking for a data cleansing service that will involve the process of identifying, correcting, and removing inaccuracies, inconsistencies, and errors within the student financial data stored in the PeopleSoft system. This is essential to ensure that the financial aid processes are efficient & accurate. This should also help the department to ensure loan applicants data is up to date should there be a need to conduct payments follow up with applicants who are behind in payment schedule.  This engagement will take place as per the following activity plan:·        Phase – 1: Data Identification & ProfilingThe first step involves identifying the data that requires cleansing. This will include student information, financial aid awards, loan details, income data, and more. Data profiling then involves analyzing the data to understand its quality, completeness, and accuracy. This step helps in identifying patterns, anomalies, and inconsistencies within the data.·        Phase – 2: Data Validation & CorrectionDuring this phase, the data engineers will validate the data against predefined business rules and standards. This ensures that data adheres to specific formatting, ranges, and criteria, reducing errors and ensuring consistency. Then, errors such as typos, missing values, duplicate entries, and inconsistencies are identified and corrected. This can involve automated processes and manual reviews.·        Phase – 3: Data MonitoringSince data cleansing is an ongoing process, the FA department would like to have regular monitoring and maintenance on the data to prevent the accumulation of new errors and to ensure ongoing data quality.Skills",
+    "Skills": [
+        "Data Processing: Proficiency in designing, implementing, and maintaining data processing pipelines to ingest, transform, and clean large volumes of raw data.\nDatabase Management: Strong knowledge of database systems including relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB, Cassandra).\nETL (Extract, Transform, Load): Expertise in building ETL processes to efficiently move data from source systems, perform necessary transformations, and load it into target data stores.\nBig Data Technologies: Familiarity with big data frameworks and technologies such as Hadoop, Spark, and Apache Kafka for handling and processing massive datasets.\nData Warehousing: Understanding of data warehousing concepts and experience with data warehouse solutions like Amazon Redshift, Google BigQuery, or Snowflake.\nProgramming Languages: Proficiency in programming languages commonly used in data engineering, such as Python, Java, Scala, and SQL.\nData Modeling: Ability to design and implement data models that ensure data accuracy, consistency, and efficiency."
+    ],
+    "Preferred": {
+        "Residence Location": "Qatar"
+    },
+    "Data": {
+        "Job Location": "Doha, Qatar",
+        "Company Industry": "Telecommunications",
+        "Company Type": "Unspecified",
+        "Job Role": "Information Technology",
+        "Employment Type": "Contractor",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "4"
+    }
+}

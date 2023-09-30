@@ -1,10 +1,12 @@
 import json
+import os
+import time
+from concurrent.futures import as_completed , ThreadPoolExecutor
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-import os
-import time
+
 
 def get_scraped_ids(folder_name):
     
@@ -16,8 +18,6 @@ def get_scraped_ids(folder_name):
     
     # Iterate through the list and filter out only the files (excluding directories)
     ids = [file.split('.')[0] for file in all_files_and_directories if os.path.isfile(os.path.join(directory_path, file))]
-
-    print("IDS DONE")
     
     return ids
 
@@ -29,13 +29,14 @@ def get_element_by_xpath(driver,xpath):
                 obj = driver.find_element(By.XPATH, xpath)
                 return obj
             except Exception as e:
-                time.sleep(1)
-                # print(f"Error: {e}")
                 pass
 
-def get_job_info(driver, job_id):
-    
-    print("Opened page",job_id)
+def get_job_info( job_id):
+
+    webdriver_path = 'chromedriver-win64/chromedriver.exe'
+    # Initialize the Chrome WebDriver
+    driver = webdriver.Chrome(service=Service(executable_path=webdriver_path))
+
     # Getting the URL
     job_url = f'https://www.bayt.com/en/international/jobs/?jobId={job_id}'
     driver.get(job_url)
@@ -46,10 +47,8 @@ def get_job_info(driver, job_id):
     skills_start="Not found"
     
     if "Job Details" in get_element_by_xpath(driver,'//*[@id="view_inner"]/div/div[2]/h2[2]').text:
-        print("Job Description is h2[1]")
         job_description_start=get_element_by_xpath(driver,'//*[@id="view_inner"]/div/div[2]/h2[1]')
     else:
-        print("Job Description is h2[2]")
         job_description_start=get_element_by_xpath(driver,'//*[@id="view_inner"]/div/div[2]/h2[2]')
         
     # Iterate through siblings
@@ -58,13 +57,9 @@ def get_job_info(driver, job_id):
         job_description += current_element.text
         
         if current_element.tag_name == "h2" and "Skills" in current_element.text:
-            print("Job Description",job_description)
             skills_start = current_element
-            print("Skills Start",skills_start)
             break
         elif current_element.tag_name == "h2" and "Job Details" in current_element.text:
-            print("Job Description",job_description)
-            print("Skills Start",skills_start)
             break
         
         # Move to the next sibling
@@ -76,7 +71,6 @@ def get_job_info(driver, job_id):
         while current_element is not None:
             # Check if we've reached the "Job Details" section
             if current_element.tag_name=="h2" and "Job Details" in current_element.text:
-                print("Skills",skills)
                 break
             elif(current_element.text != ""):
                 skills.append(current_element.text)
@@ -103,8 +97,6 @@ def get_job_info(driver, job_id):
         except:
             pass
     
-    print("Info Dict General",info_dict_general)
-    
     parent_element_preffered=False
     info_dict_preffered = {}
     preferred=False
@@ -116,7 +108,6 @@ def get_job_info(driver, job_id):
         pass
     
     if preferred:
-        print("Preferred found")
         parent_element_preffered=get_element_by_xpath(driver,'//*[@id="view_inner"]/div/div[2]/dl[2]')
 
     
@@ -135,33 +126,31 @@ def get_job_info(driver, job_id):
             except:
                 pass
     
+    driver.quit()
+    
     # Add the job data dictionary to the list
     job_data = {"Job ID": job_id,"Description":job_description, "Skills":skills,"Preferred":info_dict_preffered, "Data": info_dict_general}
 
     with open(f'data_store/{job_id}.json', "w", encoding="utf-8") as json_file:
         json.dump(job_data, json_file, ensure_ascii=False, indent=4)
 
-
-
 if __name__=="__main__":  
-    print("Reading job ids") 
+
     # Read the JSON file as a list of job IDs
     with open("all_job_ids.json", "r") as json_file:
         job_ids = json.load(json_file)
 
-    print("Getting New Ids")
     # Call get_scraped_ids once and store the result in a variable
     scraped_ids = get_scraped_ids('data_store')
-
+    
     # Use the result in the list comprehension
     new_ids = [job_id for job_id in job_ids if job_id not in scraped_ids]
+    
+    pool= ThreadPoolExecutor(7)
 
+    for id in new_ids:   
+        pool.submit(get_job_info,id)
+    
+    pool.shutdown(wait=True)
 
-    print("Initializing driver")
-    # Initialize the WebDriver
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-
-    [get_job_info(driver,id) for id in new_ids]
-
-    # Quit the WebDriver after all new jobs have been processed
-    driver.quit()
+    

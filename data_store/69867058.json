@@ -1,0 +1,14 @@
+{
+    "Job ID": "69867058",
+    "Description": "Looking for AWS Solution Architect- Should be able to formulate a plan for infastructure sizing and scaling based on results of load testing to be able to service 10x users- Observability experience and should be able to create a plan on what metrics should be monitoring for each resource in the list as well as help with setting up alerting\"- Experience implementing AWS services with security best practices. The ideal candidate will Remediate HIPPA audit findings for the customer- AWS high availability and disaster recovery implementation in AWS.- Setup observability for their AWS infrastructure at all levels. Using Cloudwatch, third party tools as needed.- Remediate WAR findings.- Set up with guardrails and security platform services to meet security compliance and has a centralized way to provide access to their team to member accounts.- Infrastructure code setup with CICD pipelines designed in a way that it can be used in a repeatable fashion to provision similar infrastructure in other accounts.- Automate pipelines setup for pushing new releases to container images in ECR.- Setup CICD pipelines to deploy infrastructure to EKS and manage the lifecycle of containers running on EKS.- Provide observability into running workloads using AWS cloudwatch to detect and troubleshoot issues with the workloads as well as to fine tune performance.- Design infrastructure in a way that it is highly available, running in multiple availability zones, cost effective as well as has the ability to elastically scale based on traffic.Job Details",
+    "Skills": [],
+    "Preferred": {},
+    "Data": {
+        "Job Location": "India",
+        "Company Industry": "Other Business Support Services",
+        "Company Type": "Unspecified",
+        "Employment Type": "Unspecified",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "Unspecified"
+    }
+}

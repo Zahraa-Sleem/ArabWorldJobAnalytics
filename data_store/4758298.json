@@ -1,0 +1,23 @@
+{
+    "Job ID": "4758298",
+    "Description": "A salon in Garhoud looking for experienced hairdresser preferably from Lebanon. Salary- 5000 to 6000dhs . Minimum experience of 4 years in Dubai. Salon next to metro station.Skills",
+    "Skills": [
+        "English",
+        "Compatibility",
+        "Flexibility"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 3 Max: 6",
+        "Degree": "High school or equivalent",
+        "Age": "Min: 25 Max: 45"
+    },
+    "Data": {
+        "Job Location": "Dubai, United Arab Emirates",
+        "Company Industry": "Personal Care Centers",
+        "Company Type": "Unspecified",
+        "Job Role": "Beauty and Fashion",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$2,000 - $3,000",
+        "Number of Vacancies": "1"
+    }
+}

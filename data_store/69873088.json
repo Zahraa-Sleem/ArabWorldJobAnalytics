@@ -1,0 +1,14 @@
+{
+    "Job ID": "69873088",
+    "Description": "Job Details:Intel Foundry Services (IFS) is an independent foundry business that is established to meet our customers' unique product needs. With the first \"Open System Foundry\" model in the world, our combined offerings of wafer fabrication, advanced process, and packaging technology, chiplet, software, robust ecosystem, and assembly and test capabilities help our customers build their innovative silicon designs and deliver full end-to-end customizable products from Intel's secure, resilient, and sustainable source of supply.\nThis job opportunity in IFS will be part of the Customer Solutions Engineering (CSE) group which is responsible for the portions of the system foundry that brings the \"best of Intel\" technologies to IFS customers, differentiating and accelerating their solutions from architecture to post-silicon validation.\nThe role of a DFT Automation Engineer includes but is not limited to:\nArchitecting design infrastructure that integrates state of the art tools, flows and methodologies into a hierarchical design system that enables design engineers to efficiently execute end-to-end EDA tool flows on various technology nodes.\nDevelops, tests, and analyzes design automation tools, flows, and methodologies to drive efficiency and optimize PPA for SoC ASIC designs.\nPartners with various teams such as physical design, RTL, tool/flow owners, and EDA vendors to continuously improve physical design methodologies.\nThe ideal candidate will have experience with Intel internal tools as well as industry standard tools and will guide the team to the best solution.Qualifications:Candidate should have hands on experience of min 7+ years.Hands on exposure on following skills are preferred.Hierarchical ATPG based testing of cores \nscan insertion, EDT/SSN/LBIST insertion, ATPG pattern generation & simulation, ATPG pattern retarget\nICL extraction and verification \nMemory BIST insertion, pattern generation & simulation, memory diagnostics, memory repair \nBoundary scan insertion, pattern generation & simulation \nFamiliarity with JTAG/IJTAG \nFamiliarity with design for debug \nDFT mode STA constraints generation and validation \nScripting expertise in PERL/python/TCL\nObject oriented programming \nFamiliarity with GNU make\nMin 2+ years of Prior experience of DFT flow development is preferredWork Model for this RoleJob Details",
+    "Skills": [],
+    "Preferred": {},
+    "Data": {
+        "Job Location": "Bengaluru, India",
+        "Company Industry": "Other Business Support Services",
+        "Company Type": "Unspecified",
+        "Employment Type": "Unspecified",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "Unspecified"
+    }
+}

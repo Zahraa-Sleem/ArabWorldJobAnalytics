@@ -1,0 +1,21 @@
+{
+    "Job ID": "4725877",
+    "Description": "SummaryDetermines data storage needs.\nDesigns develop, automate, and support complex applications to extract, transform, and load data.\nUses different data warehousing concepts to build a data warehouse for internal departments of the organization.\nCreates and enhances data solutions enabling seamless delivery of data, and is responsible for collecting, parsing, managing, and analyzing large sets of data.\nLeads the design of the logical data model and implements the physical database structure, and constructs and implements operational data stores and data marts.\nEnsures data quality.\nDevelops logical and physical data flow models for ETL applications.\nTranslates data access, transformation, and movement requirements into functional requirements and mapping designs.Salary: Based on Experience.Skills",
+    "Skills": [
+        "Skill Set: ETL, Informatica, Tableau",
+        "Skilled at writing ETLs and real-time data transformation\nGood verbal and written communication skills."
+    ],
+    "Preferred": {
+        "Residence Location": "Cairo, Egypt",
+        "Nationality": "Egypt"
+    },
+    "Data": {
+        "Job Location": "Cairo, Egypt",
+        "Company Industry": "Banking",
+        "Company Type": "Unspecified",
+        "Job Role": "Information Technology",
+        "Employment Type": "Contractor",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "20"
+    }
+}

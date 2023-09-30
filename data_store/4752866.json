@@ -1,0 +1,20 @@
+{
+    "Job ID": "4752866",
+    "Description": "We are hiring a Draftsman/CAD Operator for one of our clients in Doha.Candidates who have the required qualifications and good experience may apply.Skills",
+    "Skills": [
+        "Minimum 5-7 years of experience.\nBuilding experience is mandatory\nMust be good in AutoCAD and should have good experience in architectural-related works.\nWith a valid QID\nResiding in Qatar"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 5 Max: 7",
+        "Residence Location": "Qatar"
+    },
+    "Data": {
+        "Job Location": "Doha, Qatar",
+        "Company Industry": "General Engineering Consultancy",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Engineering",
+        "Employment Type": "Contractor",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

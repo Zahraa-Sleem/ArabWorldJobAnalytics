@@ -1,0 +1,21 @@
+{
+    "Job ID": "4761910",
+    "Description": "We are looking for an ASP.NET MVC developer that will be able to develop and support existing applications. The main scope of work will include everything from back-end to client-side code, using optimal and efficient technologies, frameworks, and patterns. Your primary responsibilities will be to design and develop these applications. Therefore, it’s essential that you are skilled at problem solving, solution design, and high-quality coding.ResponsibilitiesDelivering a high-quality application\nEnsuring a required level of performance\nWriting test-backed server-side code\nAnalyzing requirements and designing new functionality\nSupporting and fixing existing functionality\nSelecting and using the most appropriate and efficient technologies for a particular application\nDesigning and building application layersSkills",
+    "Skills": [
+        "We do use Microsoft Framework, so your",
+        "Proficiency in C#\nExperience using .NET 4.5+ | Core\nExperience in developing.NET MVC | ASP.NET Core MVC applications\nProficient knowledge in MSSQL or other RDBMS\nDatabase design including table creation, indexes, stored procedures, triggers, queries and data integrity\nWriting tests with NUnit | XUnit\nImplementing enterprise application patterns\nKnowledge of HTML 5.0, JS, and CSS\nFamiliarity with the client side framework jQuery, Angular, React, other\nFamiliarity with Crystal Reports\nIntegrating web analytics tools, particularly Google Analytics\nBS in computer science + 2 years proven minimum experience required."
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 1 Max: 2",
+        "Nationality": "Lebanon"
+    },
+    "Data": {
+        "Job Location": "Lebanon",
+        "Company Industry": "Telecommunications; Software Development",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "2"
+    }
+}

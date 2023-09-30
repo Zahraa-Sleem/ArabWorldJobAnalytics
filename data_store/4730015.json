@@ -1,0 +1,21 @@
+{
+    "Job ID": "4730015",
+    "Description": "Design, develop, and maintain high-quality web applications using ASP.NET MVC, ASP.NET Core, and other .NET frameworks.\nCollaborate with cross-functional teams to gather and analyze requirements, and contribute to technical discussions.\nWrite clean, efficient, and maintainable code while adhering to best practices and coding standards.\nImplement and maintain database schemas, tables, and stored procedures using SQL Server and Entity Framework.\nCreate and consume Web APIs and web services to facilitate data exchange between different applications.\nDevelop responsive and user-friendly front-end interfaces using HTML5, CSS, Bootstrap, and JavaScript libraries, JQuery.\nWork with XML, JSON, and other data formats to ensure seamless data integration.\nCollaborate with UX/UI designers to ensure the best user experience and visual design implementation.\nTroubleshoot and debug issues across different layers of the application stack.\nStay updated with the latest .NET technologies, trends, and best practices to continuously enhance development processes.Skills",
+    "Skills": [
+        "Skills and Qualifications:",
+        "Bachelor's degree in Computer Science, Software Engineering, or a related field.\nProven experience as a .NET Developer with 2 to 5 years of hands-on experience.\nStrong proficiency in ASP.NET MVC, ASP.NET Core, C#, and Entity Framework.\nExperience with designing and consuming RESTful Web APIs and web services.\nProficiency in SQL Server, including database design, LINQ, and query optimization.\nSolid understanding of front-end technologies: HTML5, CSS, Bootstrap, JavaScript, and jQuery.\nFamiliarity with XML and JSON data formats for data exchange.\nKnowledge of version control systems (Git) and Agile development methodologies.\nStrong problem-solving skills and a proactive approach to finding solutions.\nExcellent communication skills and ability to work effectively within a team.\nAbility to work independently, manage priorities, and meet project deadlines."
+    ],
+    "Preferred": {
+        "Residence Location": "Egypt; Jordan; Saudi Arabia",
+        "Gender": "Male"
+    },
+    "Data": {
+        "Job Location": "Riyadh, Saudi Arabia",
+        "Company Industry": "Software Development",
+        "Company Type": "Unspecified",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Job ID": "4745503",
+    "Description": "مطلوب مسعفين طوارئ\nحاصل علي شهاده التصنيف\nالعمل بالرياض\nالراتب يحدد بعد المقابله\nان يكون سعودي الجنسيهSkills",
+    "Skills": [
+        "حاصل على المؤهل المطلوب للوظيفه\nخبره من 1 الى 5\nحاصل علي شهاده التصنيف"
+    ],
+    "Preferred": {
+        "Career Level": "Mid Career",
+        "Years of Experience": "Min: 1 Max: 5",
+        "Residence Location": "Riyadh, Saudi Arabia",
+        "Nationality": "Saudi Arabia",
+        "Degree": "Bachelor's degree / higher diploma"
+    },
+    "Data": {
+        "Job Location": "Al Olaya, Riyadh , Saudi Arabia",
+        "Company Industry": "Other Healthcare Services",
+        "Company Type": "Unspecified",
+        "Job Role": "Medical, Healthcare, and Nursing",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$1,000 - $1,500",
+        "Number of Vacancies": "5"
+    }
+}

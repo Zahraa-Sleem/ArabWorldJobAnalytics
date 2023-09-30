@@ -1,0 +1,27 @@
+{
+    "Job ID": "4693643",
+    "Description": "▪ Ensures PMRS (Performance Management Reporting System) accurately monitors and reports the performance of QR assets and services, service providers (including KPRs calculations) and QR deps business related activities.▪ Develop new workflows and reports as required by end users and implement any required PMRS tool enhancements▪ Manage patching, cloning, workflow, implementation and review of security controls, backup and recovery procedures, and replication activities for system and database▪ Installing, patching, maintaining, and upgrades Oracle applications using Oracle utilities and monitoring tools.▪ Setup and monitor backups, implement and test recovery techniques, diagnose and correct performance problems.▪ Installation, configuration, tuning, and maintaining production, development, training, and test environments.▪ Manage clustering, standby databases, physical and logical replication and database management and monitoring.▪ Database installation, configuration, performance tuning and troubleshooting.▪ Database Backup and Recovery, hot and cold backups, export backups, and backup scripting.▪ Database storage planning.▪ Implement data protection and privacy controls on the database wherever applicable.▪ Monitors PMRS reliability and manage any troubleshooting required with SAP.▪ Monitor the accuracy of the data from the sources and trouble shoot and liase as necessary with sub-contractors when anomalies are observed.▪ Extract data from database and validates with RKH that it is accurate and fit for purpose.▪ Source and input any manual data and validate that it is accurate and fit for purpose.▪ Develop new system generated queries/ reports as required by business using workflows and Microsoft BI Tool.▪ Maintain the entire MicroStrategy or Power BI platform including Infrastructure, security (users, groups, content), portal customization, mobile content enablement, etc.▪ Train staff when required▪ Communicate regularly with executive management and all users of information services and systems▪ Check and analyze all data, logs, reports and suggest improvement action plans▪ Implement and follow KPIs▪ Support end-users with Dashboard and Reporting creation including top level managementAuthorities:▪ Display ownership and independent trouble shooting on systems and databased related issues▪ Make routine decisions guided by policies, procedures, with guidance from manager▪ As delegated by line managerAccountabilities:▪ Review system requirements and business processes; code, test, debug and implement solutions▪ Participate in medium to high complexity BI developments (using front-end or back-end tools) at an advanced level while following best practice principles with minimal guidance▪ Demonstrate advanced data management knowledge using Kimball methodology to create data warehouses to support decision making in an organization and/or data marts for a single department or function▪ Utilize query optimization based on specifics of each database engine as well as distinctive statements and features of the most the common databases in the market▪ Lead conversations with technical and business users to gather both technical and functional requirements▪ Gather business and technical requirements autonomously and translate into Business Requirements Document and Technical Design Specifications Document▪ Able to develop and present a project plan for a project of medium complexity.▪ Able to work autonomously in a medium complexity customer project with day-to-day project management responsibilities▪ Comply with the Company Quality, Health and Safety, Environmental Policies and Management System RequirementsSkills",
+    "Skills": [
+        "• University degree in Information Technology or Computer Engineering",
+        "• Certifications related to data analysis or data science will be an added advantage.",
+        "• Range of 4-6years of progressive business intelligence experience",
+        "• Experience on similar BI environments",
+        "• Exposure to the railway environment and its operating procedures or working in similar environment (Desirable).",
+        "Professional Training",
+        "• SAP Certified HANA 2.X"
+    ],
+    "Preferred": {
+        "Career Level": "Mid Career",
+        "Years of Experience": "Min: 6",
+        "Degree": "Bachelor's degree / higher diploma"
+    },
+    "Data": {
+        "Job Location": "Doha, Qatar",
+        "Company Industry": "IT Services",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

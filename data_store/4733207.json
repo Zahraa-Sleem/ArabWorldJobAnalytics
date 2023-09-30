@@ -1,0 +1,23 @@
+{
+    "Job ID": "4733207",
+    "Description": "مطلوب مندوب مبيعات\n\nللعمل فوراً بدوام كامل في شركة كبرى\nفي مناطق ( الرياض & الدمام & حائل )Skills",
+    "Skills": [
+        "الشروط المطلوبة :\nخبرة سابقة لا تقل عن 5 سنوات في مجال المبيعات\nألا يزيد عمر المرشح عن 35 عام\nيحمل إقامة سارية بمهنة قابلة لنقل الكفالة .\nيحمل رخصة قيادة سارية وعلى دراية بشوارع وأحياء المناطق المطلوبة\nوالمزايا :\nراتب أساسي + بدل سكن + بدل إتصالات + عمولة\nتوفير سيارة + فواتير الوقود .\nتوفير تذكرة طيران ( ذهاب وعودة ) كل عام\nتوفير تأمين طبي ."
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 5 Max: 15",
+        "Residence Location": "Saudi Arabia",
+        "Gender": "Male",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Min: 23 Max: 37"
+    },
+    "Data": {
+        "Job Location": "Hail, Saudi Arabia",
+        "Company Industry": "Retail & Wholesale; FMCG; Paper & Paper Product Manufacture",
+        "Company Type": "Unspecified",
+        "Job Role": "Sales",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$500 - $1,000",
+        "Number of Vacancies": "1"
+    }
+}

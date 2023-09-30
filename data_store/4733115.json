@@ -1,0 +1,24 @@
+{
+    "Job ID": "4733115",
+    "Description": "Key AccountabilitiesParticipate in Data Management systems implementation projects: Data Lakehouse, Data Streaming, Metadata management, Reference Data Management\nDevelop data pipelines to bring new data to Enterprise Data Fabric\nEnsure data pipelines are efficient, scalable, and maintainable\nComply with data engineering and development best practices (CI/CD, Code Management, Testing, Knowledge Management, Documentation etc.)\nEnsure that all Data Policies are met within Enterprise Data Fabric.\nEnsure that implemented systems correspond with target Data Architecture\nSupport Data teams (DQ, Data Governance, BI, Data Science) in achieving their goals\nMaintain agile delivery process based on one of frameworks: Kanban, Scrum\nEnsure that SLAs with data consumers and data sources are maintained\nImplement all necessary monitoring, alerting Other AccountabilitiesSoftware and Tools knowledge\nPython (Advanced level)\nAirflow or Apache NiFi\nK8s (OpenShift), Docker\nRDBMS: MS SQL Server, PostgreSQL, Oracle\nETL (at least one of): SSIS, Informatica PowerCenter, IBM Datastage, Pentaho\nSQL – Advanced user (Stored Procedures, Window functions, Temp Tables, Recursive Queries)\nGit (GitHub/GitLab)Skills",
+    "Skills": [
+        "Key Interactions",
+        "Familiar with following concepts:\nData Warehousing (Star/Snowflake schemas)\nData Lake\nAgile methodologies (Kanban, Scrum)\nStrong problem-solving skills",
+        "Competencies",
+        "Adaptability/Flexibility\nCreativity/Innovation\nDecision Making/Judgment\nDependability\nInitiative\nIntegrity/Ethics\nProblem Solving/Analysis",
+        "Skills",
+        "Ability to interact with internal and external stakeholders\nAbility to work under pressure\nAccuracy and attention to detail",
+        "Education",
+        "Bachelor’s degree in Computer Science or equivalent"
+    ],
+    "Preferred": {},
+    "Data": {
+        "Job Location": "Qatar",
+        "Company Industry": "Banking",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

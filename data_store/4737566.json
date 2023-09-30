@@ -1,0 +1,24 @@
+{
+    "Job ID": "4737566",
+    "Description": "Job Purpose:The Sr. Windows & Citrix Administrator is responsible for managing CBQ Citrix and Windows infrastructures spanning multiple sites. The responsibilities include administrating the day-to-day technical activities related to maintaining reliable and effective Citrix and Windows environments responsive to the requirements of Information Systems.Key Accountabilities:Configuring and administering Citrix XenApp infrastructure and later\nConfiguring and administering Xendesktop infrastructure spanning across multiple sites\nConfiguring and administering Provisioning and Machine Creation Services.\nConfiguring and administering Storefront / Web interface Servers.\nConfiguring and administering NetScaler, Access Gateway, Load Balance, Routes, Services, Virtual servers and GSLB.\nConfiguring and administering XenMobile, ShareFile, and Rights Signature.\nPlan and failover Citrix component during Disaster Recovery.\nAssists in the monthly patching of server systems which is part of the maintenance activity using System Center Configuration Manager.\nBe a part of the existing projects.\nDevelop & Executes PowerShell or Command Shell commands and experience in scripting.\nDiagnosing and resolving performance issues.\nMaintaining consistent system documentation.\nCoordinating, managing, and validating software and environment changes.\nPerform installations and upgrades during the weekend maintenance window.\nConfiguring and administering applications in a Citrix / Windows Server Environment.\nComply with CBQ Change Management processes and best practices.\nProvide technical leadership for upcoming projects.\nLead design updates and architecture revisions.Skills",
+    "Skills": [
+        "Required Qualifications:",
+        "University Degree (IT)\nCitrix Certified Associate (CCA for Citrix XenApp & XenDesktop)\nMicrosoft Certified Systems Engineer (MCSE ) – Server Infrastructure\nMicrosoft Certified Systems Engineer (MCSE) - Messaging\nExpert in Microsoft Teams.\nExperience with Office 365, Microsoft Intune / EMS, Online Protection, DLP, Information Protection Suite, Azure MFA Server, Azure AD Sync, ADFS, ADFS Proxy & Windows Azure application and services.\nExperience in XEN desktop provisioning services in VMWARE environment, Desktop OS image capturing, and managing Desktop OS for Citrix VDI environment.\nExpert in System Center and assisting other Administrators as required on a daily or timely basis.\nSolid knowledge of networking protocols (HTTP/S, S/FTP, TCP/IP, DNS, DHCP, etc.)\nCertificate Integration within the server environment.",
+        "Required Experience:",
+        "8 years of Systems Administration experience\nMinimum 8 years experience in managing critical Microsoft & Citrix environments.\nWorking knowledge of event, incident & problem management processes and tools",
+        "Core Competencies:",
+        "Citrix XenApp, XenDesktop, XenMobile, ShareFile, NetScaler (Application Delivery Controller – ADC).\nActive Directory, Group Policies, IIS, Microsoft PKI Certificates, Scripting.\nWindows 2008 R2, Windows 2012 R2 & Windows 2016, 2019, 2022 Clustering, Load Balancing.\nOffice 365, Microsoft Intune / EMS, Online Protection, DLP, Information Protection Suite, Azure MFA Server, Azure AD Sync, ADFS, ADFS Proxy & Windows Azure application and services.\nMicrosoft Teams.\nExchange 2016, Office 365, System Center.\nIBM WebSphere Application Server Administration.\nAdvanced PowerShell scripting."
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 6 Max: 8"
+    },
+    "Data": {
+        "Job Location": "Al Wakrah, Qatar",
+        "Company Industry": "Banking",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

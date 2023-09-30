@@ -1,0 +1,18 @@
+{
+    "Job ID": "4733119",
+    "Description": "Key AccountabilitiesExpertise on installing, configuring, managing, monitoring and troubleshooting SQL Server 2008/2008 R2/2012/2014/2019/2022\nInstalling SQL Server Stand-alone and clustered instances as per CIS Standards.\nStrong knowledge on Windows Failover cluster and Configuration of SQL failover cluster, SQL Always-On Feature with best Industry standards.\nUpgrading/Migrating SQL Servers from Old version to New Version which is latest.\nApply the Latest SP\\CU Patches on SQL Servers across all versions.\nWorked on design High Availability and DR options.\nStandardize all the servers and implemented best hardening practices.\nQuery optimizing and Performance Tuning, using Performance Monitor, SQL Profiler and other related monitoring and troubleshooting tools.\nFixing linked server issues and permission issues on object level.\nWorked on Rebuild indexing and update statics, Integrity check of database.Other AccountabilitiesUsing Scripting language like PowerShell, VBScript for Alerts and managing the SQL Database baselines.\nStrong experience in mentoring team members and writing documentation.\nCan build the SQL Servers Inventory, DB Inventory, patching status, other reports which is Management required to know.\nCan manage MS SQL Server on Linux platform.\nExpertise in designing the new Database Servers based on business requirements.\nExpertise in Capacity planning for the database environment.\nCreated Linked Servers between SQL Server & Oracle Database systems.\nHands on experience in Database Backup and Recovery procedures.\nChecking the status of Backup troubleshooting the failed backups and Restoration of databases\nPerform scheduled maintenance and support release deployment activities after office hours.\nUse of extended events to capture the DDL events on the Database.\n24 X 7 Production Database on Call Support.Skills",
+    "Skills": [
+        "Education",
+        "Bachelor’s degree in Computer Science or equivalent"
+    ],
+    "Preferred": {},
+    "Data": {
+        "Job Location": "Qatar",
+        "Company Industry": "Banking",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

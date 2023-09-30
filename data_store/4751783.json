@@ -1,0 +1,24 @@
+{
+    "Job ID": "4751783",
+    "Description": "Key AccountabilitiesDeploying and Managing appropriate CI/CD tools (Azure DEVOPS, Jenkins, Gitlab etc.)\nHaving experience in managing API Lifecycle Management products like Kong.\nComfortable in using configuration management tools like ansible, puppet and chef. (At least one)\nStrive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline).\nImplementing various development, testing, automation tools, and IT infrastructure\nDefining and setting development, test, release, update, and support processes for DevOps operations.\nDeploy and Administer applications using Tomcat, Nginx, Apache, IBM WebSphere, Oracle WebLogic, Red Hat JBOSS Application servers.\nTroubleshooting Perform root cause analysis for production issues.\nDesign and implement High availability Containerized applications.\nParticipate in multiple projects in accordance with institutional and departmental goals.\nFocus on containerizing applications.\nFinetuning the Application servers on various middleware stacks (Oracle WeblogicAS, IBM WebSphereAS, Tomcat, Redhat JBoss EAP)\nImplement and manage containerized Postgres and Mysql Databases.Skills",
+    "Skills": [
+        "Required Experience",
+        "Certified Kubernetes Administrator.\nMinimum 4 years of proven work experience as a Linux Engineer/Administrator.\nMinimum 4 years of proven work experience of large-scale Spring Boot/Java projects, experience with REST/GRPC.",
+        "Skills",
+        "Ability to interact with internal and external stakeholders\nAbility to work under pressure\nApplications Database Knowledge\nAS/400 Applications Command Language\nAS/400 Applications Knowledge\nAS/400 Development Tools and Utilities\nDatabase Capacity Planning\nDatabase Conversions and Upgrades",
+        "Education",
+        "Bachelor’s degree in Computer Science or equivalent"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 4"
+    },
+    "Data": {
+        "Job Location": "Qatar",
+        "Company Industry": "Banking",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

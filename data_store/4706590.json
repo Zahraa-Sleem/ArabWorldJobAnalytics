@@ -1,0 +1,20 @@
+{
+    "Job ID": "4706590",
+    "Description": "Job Description:As a Data Scientist, your role will be to leverage data analysis, statistical modeling, and machine learning techniques to extract insights and drive data-driven decision-making within the organization. You will work with large and complex datasets, collaborate with cross-functional teams, and develop predictive and prescriptive models to solve business problems. Your responsibilities will include data exploration, feature engineering, model development, and presenting findings to stakeholders.Responsibilities:Analyze large and complex datasets to identify patterns, trends, and insights.\nCollaborate with stakeholders to understand business problems and define project objectives.\nDevelop and implement statistical models and machine learning algorithms to solve business problems.\nPerform data cleaning, preprocessing, and feature engineering to prepare data for analysis.\nExplore and visualize data using statistical tools and programming languages (e.g., Python, R).\nTrain, evaluate, and fine-tune machine learning models to achieve optimal performance.\nConduct hypothesis testing and statistical analysis to derive meaningful conclusions.\nCollaborate with cross-functional teams, including data engineers and software developers, to deploy models into production systems.\nCommunicate findings and insights to technical and non-technical stakeholders in a clear and actionable manner.\nStay updated with emerging technologies, algorithms, and industry trends in data science and machine learning.\nParticipate in data-driven decision-making processes, providing recommendations based on analytical insights.\nEnsure compliance with data privacy and security regulations.\nMentor and provide guidance to junior data scientists or team members.Skills",
+    "Skills": [
+        "Requirements:",
+        "Master's or Ph.D. degree in Computer Science, Statistics, Data Science, or a related field. A strong academic background in quantitative disciplines is preferred.\nProven experience as a Data Scientist or a similar role, including hands-on experience in data analysis and modeling.\nStrong proficiency in programming languages such as Python or R.\nSolid understanding of statistical analysis, hypothesis testing, and experimental design.\nExperience with machine learning algorithms and frameworks (e.g., scikit-learn, TensorFlow, PyTorch).\nFamiliarity with data visualization tools and techniques.\nProficiency in SQL for data querying and manipulation.\nStrong problem-solving and analytical skills to tackle complex business problems.\nExcellent communication and presentation skills to convey complex concepts to both technical and non-technical stakeholders.\nExperience with big data technologies (e.g., Hadoop, Spark) is a plus.\nKnowledge of cloud platforms and services (e.g., AWS, Azure, GCP) for scalable data processing and model deployment is beneficial.\nUnderstanding of software engineering principles and ability to collaborate with software development teams.\nStrong project management skills to handle multiple projects and prioritize tasks effectively.\nCuriosity, creativity, and a passion for continuous learning in the field of data science."
+    ],
+    "Preferred": {
+        "Residence Location": "Egypt"
+    },
+    "Data": {
+        "Job Location": "Cairo, Egypt",
+        "Company Industry": "Accounting",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

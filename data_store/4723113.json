@@ -1,0 +1,24 @@
+{
+    "Job ID": "4723113",
+    "Description": "Senior Software Development SpecialistSkills",
+    "Skills": [
+        "Minimum Requirements:",
+        " Bachelor’s degree in IT or equivalent.",
+        " Must have 9+ years of experience in similar role.",
+        " Point of contact for production apps developed on frontend technologies, .Net and Azure.",
+        " Experience in creating project infrastructure across Dev, Stg & Prod environments in azure using azure Bicep/ARM IaC.",
+        " Relevant certifications related to software development."
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 9"
+    },
+    "Data": {
+        "Job Location": "Doha, Qatar",
+        "Company Industry": "Business Consultancy Services",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

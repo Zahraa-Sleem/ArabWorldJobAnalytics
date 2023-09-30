@@ -1,0 +1,31 @@
+{
+    "Job ID": "4719176",
+    "Description": "Responsibilities:· Maintaining the detection platforms from performance and high availability· Solution upgrade of the software and platform · Routine preventive maintenance · Capacity management of the supported systems and proactively report any systems that are over-utilized or consumed.· Solution backup-ups and periodic check · Integration of IT assets with Detection platforms like SIEM, SOAR, and TIP · EDR management and end-point coverage · Customised scripting for API-based integrations/reporting.· Development of custom integrations for legacy or out-of-the-box unsupported systems · Develop new content which will enhance the detection capabilities for detection platforms against newthreats like SIEM use cases, Yara rules, etc. · Execute content development requests coming in from the Cybersecurity Incident Response Team andThreat Intelligence Team.· Follow the Use case development framework in its entirety. · Provides input to the overall detection platform (SIEM+SOAR+NDR+EDR+TIP) security services architecture,governance model.· Provide technical oversight, standardization, and validation of the effectiveness of detectionplatform (SIEM+SOAR+NDR+EDR+TIP) content service.· Supports, implements and promotes standard configuration and change management, processes, andpractices.Skills",
+    "Skills": [
+        "Skills:",
+        "· Experience with architecting, implementing, and operating Splunk or other big data platforms",
+        "· Experience with IDS, IPS, and SIEM appliance architecture, operations, and management",
+        "· Experience working in a globally distributed enterprise environment",
+        "· Experience with monitoring use case implementation methodologies",
+        "· Experience using regex (regular expressions) with a scripting language (nix shells, python, C++, Ruby, etc.) is acceptable",
+        "· Excellent communication skills and problem-solving ability",
+        "· Troubleshooting skills and strong technical learning aptitude",
+        "Qualifications:",
+        "· 5+ years of experience ",
+        "· Splunk Administration – ESA",
+        "· Forti-SOAR ",
+        "· Carbon Black Systems Management "
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 5"
+    },
+    "Data": {
+        "Job Location": "Riyadh, Saudi Arabia",
+        "Company Industry": "IT Services",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Engineering",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Job ID": "4750692",
+    "Description": "We are currently seeking a skilled SAP ABAP Consultant to join our team in Khobar, Saudi Arabia. As an SAP ABAP Consultant, you will be responsible for developing, implementing, and maintaining SAP applications using the ABAP programming language. You will work closely with our clients to understand their business requirements and customize SAP solutions to meet their needs. The ideal candidate will have a strong technical background in SAP ABAP and a solid understanding of SAP modules such as FI/CO, MM, SD, and HR.Responsibilities:Design, develop, and debug SAP ABAP programs and reports based on business requirements\nCreate and modify SAP forms such as Smart Forms and SAPscript\nDevelop and maintain SAP interfaces using IDocs, BAPIs, and RFCs\nPerform unit testing and support system integration testing\nProvide technical support and troubleshoot SAP ABAP issues\nCollaborate with functional consultants to understand client requirements and propose technical solutions\nDocument technical specifications and system configurations\nParticipate in project meetings and provide regular status updates\nStay up-to-date with SAP ABAP trends and best practicesSkills",
+    "Skills": [
+        "Preferred Candidate:",
+        "Bachelor's degree in Computer Science, Information Technology, or a related field\n4-6 years of experience in SAP ABAP development\nStrong knowledge of SAP modules such as FI/CO, MM, SD, and HR\nExperience with SAP S/4HANA is a plus\nAbility to work independently and as part of a team\nExcellent problem-solving and analytical skills\nStrong communication and interpersonal skills\nAbility to work under pressure and meet tight deadlines\nExperience with SAP Fiori/UI5 development is a plus",
+        "Strong knowledge of SAP ABAP programming language\nExperience with SAP modules such as FI/CO, MM, SD, and HR\nKnowledge of SAP development tools such as ABAP Workbench and Eclipse\nExperience with SAP forms development using Smart Forms and SAP script.\nUnderstanding of SAP integration technologies such as IDocs, BAPIs, and RFCs\nRich experience in SAP- ABAP Programming with SD, MM, FICO, PP,\nWorked on ABAPHANA to display the CDS view as a report using SAP standard classes."
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 4 Max: 6"
+    },
+    "Data": {
+        "Job Location": "Khobar, Saudi Arabia",
+        "Company Industry": "Accounting",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "3"
+    }
+}

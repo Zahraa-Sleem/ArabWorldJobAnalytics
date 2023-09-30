@@ -1,0 +1,26 @@
+{
+    "Job ID": "4758563",
+    "Description": "Well experienced hair dressers for a chain of mens salons.Skills",
+    "Skills": [
+        "Hair dressing",
+        "Personal grooming services",
+        "mens beauty products",
+        "use of cosmetics dedicated to mens grooming"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 2",
+        "Gender": "Male",
+        "Nationality": "Bangladesh; India; Nepal; Pakistan; Sri Lanka",
+        "Degree": "High school or equivalent",
+        "Age": "Min: 22 Max: 40"
+    },
+    "Data": {
+        "Job Location": "Ajman, United Arab Emirates",
+        "Company Industry": "Personal Care Centers; Personal Services",
+        "Company Type": "Unspecified",
+        "Job Role": "Beauty and Fashion",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$500 - $1,000",
+        "Number of Vacancies": "4"
+    }
+}

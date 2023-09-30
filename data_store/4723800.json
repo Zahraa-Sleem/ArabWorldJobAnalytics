@@ -1,0 +1,30 @@
+{
+    "Job ID": "4723800",
+    "Description": "Regional company in Amman is looking to hire Mid/Sr \"Microsoft SQL Database developer\" with the following qualifications:• Database administration and troubleshooting• Database Architecture and Design• Database development (creating tables, views, indexes, triggers, etc.)• Developing Stored Procedures and Functions and have basic of database administration• Writing Complex SQL Queries• PL/SQL developmentSkills",
+    "Skills": [
+        ".• Strong Database Architecture and Design",
+        "• Proven experience in database development (creating tables, views, indexes, triggers, etc.)",
+        "• Proven experience in developing Stored Procedures and Functions and have basic of database administration",
+        "• Experience: 2-5 years",
+        "• BSc degree in IT field",
+        "• Good Communication Skills",
+        "• Good English language",
+        "• Knowledge of NoSQL is a plus"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 2 Max: 5",
+        "Residence Location": "Jordan",
+        "Nationality": "Jordan",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Min: 25 Max: 35"
+    },
+    "Data": {
+        "Job Location": "Amman, Jordan",
+        "Company Industry": "General Engineering Consultancy",
+        "Company Type": "Unspecified",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

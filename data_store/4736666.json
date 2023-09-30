@@ -1,0 +1,22 @@
+{
+    "Job ID": "4736666",
+    "Description": "إإعلان توظيف\nتعلن شركة روابي دارين لتقديم المشروبات عن توفر فرص وظيفية للسعوديين/السعوديات للعمل لديها كباريستا (اعداد وتقديم منتجات الكفي شوب) بمدينة الخبرحسب الشروط التالية:\nالموهل: ثانوي أو أعلى\nالخبرة: 0-2 سنة .\nاللغة: يفضل من يجيد اللغة الانجليزية.\nالمميزات:\nراتب منافس متوافق مع الاأنظمة.\nتأمين طبي .\nالتسجيل في التأميات الاجتماعية.\nإمكانية العمل الاضافي في حال الرغبة.\nساعات العمل متوافقة مع أنظمة وزارة الموارد البشرية.\nيرجى ارسال السيرة الذاتية خلال اسبوع من تاريخ هذا الاعلان.Skills",
+    "Skills": [
+        "الموهل: ثانوي أو أعلى\nالخبرة: 0-2 سنة .\nاللغة: يفضل من يجيد اللغة الانجليزية."
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 0 Max: 2",
+        "Nationality": "Saudi Arabia",
+        "Degree": "High school or equivalent",
+        "Age": "Min: 18 Max: 27"
+    },
+    "Data": {
+        "Job Location": "Khobar, Saudi Arabia",
+        "Company Industry": "Food & Beverage Production",
+        "Company Type": "Unspecified",
+        "Job Role": "Hospitality and Tourism",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$1,000 - $1,500",
+        "Number of Vacancies": "2"
+    }
+}

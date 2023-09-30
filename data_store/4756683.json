@@ -1,0 +1,22 @@
+{
+    "Job ID": "4756683",
+    "Description": "مبيت 26 يوم و 4 ايام اجازةSkills",
+    "Skills": [
+        "يكون حاصل علي بكالوريوس طب تخصص بيطري\nفحص الحيوانات والتحقق من حالتها الصحية.\nتشخيص الأمراض وتحديد أفضل الادوية العلاجية.\nتلقيح الحيوانات للوقاية من الأمراض.\nوصف الأدوية وتحديد الجرعات المطلوبة."
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 5 Max: 5",
+        "Gender": "Male",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Min: 30 Max: 35"
+    },
+    "Data": {
+        "Job Location": "Menoufia, Egypt",
+        "Company Industry": "Animal Production",
+        "Company Type": "Unspecified",
+        "Job Role": "Medical, Healthcare, and Nursing",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

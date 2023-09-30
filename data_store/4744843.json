@@ -1,0 +1,20 @@
+{
+    "Job ID": "4744843",
+    "Description": "Position Title:             B1 DeveloperEmployment Type:     Full TimeSalary:                        up to 17K AED all inclusive depending on experience and qualificationsJob Location:            Abu Dhabi, UAE About the Client:One of the leading telecommunications and security companies, based in Abu Dhabi with global presence in the industry Job Description:Creating ETL (Extract, Transform, Load) processes to extract data from various sources, transform it into a usable format, and load it into data warehouses or data marts ensuring data quality and consistency throughout the ETL process.\nDeveloping and maintaining databases, data warehouses, and data cubes.\nCollaborating with business stakeholders to understand their data analysis needs and requirements; then identifying opportunities for business improvement by analyzing data trends, patterns, and anomalies.\nImplementing security measures to safeguard sensitive data and ensure compliance with data privacy regulations while ensuring the good performance and availability of BI systems and tools.\nDesigning and developing interactive dashboards, reports, and visualizations using BI tools (e.g., Tableau, Power BI, QlikView).Skills",
+    "Skills": [
+        "Qualifications:",
+        "Bachelor’s degree in computer science, Information Systems, or a related field (or equivalent experience)\nAt least 3 years of experience as a B1 Developer\nProficient in at least one major BI tool such as Tableau, Power BI, QlikView, or similar.\nKnowledgeable on database management systems (e.g., SQL Server, Oracle, PostgreSQL).\nSkilled in data warehousing concepts and methodologies."
+    ],
+    "Preferred": {
+        "Residence Location": "United Arab Emirates"
+    },
+    "Data": {
+        "Job Location": "Abu Dhabi, United Arab Emirates",
+        "Company Industry": "Telecommunications",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

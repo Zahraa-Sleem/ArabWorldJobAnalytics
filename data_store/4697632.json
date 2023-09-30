@@ -1,0 +1,19 @@
+{
+    "Job ID": "4697632",
+    "Description": "Application Development: Designing, coding, and modifying PHP Laravel web applications to meet client requirements and project specifications.\nDatabase Management: Developing and maintaining database structures, optimizing queries, and ensuring data integrity within Laravel applications.\nFront-End Development: Collaborating with front-end developers and designers to integrate user interfaces into Laravel applications.\nAPI Development: Building and consuming RESTful APIs, integrating third-party services, and managing data exchange between different systems.\nTesting and Debugging: Conducting unit tests, identifying and fixing bugs and performance bottlenecks, and ensuring the quality of the developed code.Skills",
+    "Skills": [
+        "PHP and Laravel: Strong proficiency in PHP programming and hands-on experience with the Laravel framework, including Laravel MVC architecture, Eloquent ORM, and Blade templating engine.\nFront-End Technologies: Proficiency in HTML, CSS, JavaScript, and familiarity with front-end frameworks like Vue.js or React.js.\nDatabase Management: Experience with relational databases like MySQL or PostgreSQL, including database design, optimization, and query building.\nAPI Development: Knowledge of building and consuming RESTful APIs, authentication methods (OAuth, JWT), and integrating third-party services.\nTesting and Debugging: Familiarity with unit testing frameworks (PHPUnit), debugging tools, and techniques for identifying and resolving code issues."
+    ],
+    "Preferred": {
+        "Residence Location": "Kuwait"
+    },
+    "Data": {
+        "Job Location": "Kuwait",
+        "Company Industry": "Software Development",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

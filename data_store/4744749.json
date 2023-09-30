@@ -1,0 +1,26 @@
+{
+    "Job ID": "4744749",
+    "Description": "Position Title:              Mobile React Native DeveloperEmployment Type:      Full TimeSalary:                         up to 14K AED all-inclusive, depending on experience and qualificationsJob Location:             Abu Dhabi, UAE About the Client:One of the leading telecommunications and security companies, based in Abu Dhabi with global presence in the industry Job Description:Design, develop, and maintain mobile applications using React Native for both iOS and Android platforms by writing a clean, maintainable, and efficient code while adhering to best practices in React Native development\nImplement user interfaces that are both visually appealing and highly usable, ensuring a seamless user experience\nCollaborate with cross-functional teams to define, design, and implement new features and enhancements for the mobile application\nIdentify and fix bugs and performance bottlenecks in the application, ensuring its stability and responsiveness.\nParticipate in code reviews to maintain code quality, share knowledge, and provide constructive feedback to team members in order to optimize application performanceSkills",
+    "Skills": [
+        "Qualifications:",
+        "Open to Arabic and Indian nationals\nMale, 45 years old and below\nAt least 3 years’ related experience\nProficient in JavaScript and its modern ES6+ syntax, with native build tools, like Xcode and Android Studio, for app deployment\nMust have hands-on experience with RESTful APIs and asynchronous programming\nSkilled in state management libraries like Redux or MobX\nFamiliarity with version control systems, particularly Git"
+    ],
+    "Preferred": {
+        "Career Level": "Entry Level",
+        "Years of Experience": "Min: 3",
+        "Residence Location": "United Arab Emirates",
+        "Gender": "Male",
+        "Nationality": "All Arab Countries; India",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Max: 45"
+    },
+    "Data": {
+        "Job Location": "Abu Dhabi, United Arab Emirates",
+        "Company Industry": "IT Services; Telecommunications",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

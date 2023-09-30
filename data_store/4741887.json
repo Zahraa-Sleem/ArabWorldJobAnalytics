@@ -1,0 +1,24 @@
+{
+    "Job ID": "4741887",
+    "Description": "موظف قطع غيار يمتلك الخبرة في نفس المجال قطع غيار السيارات فقط (صينية )Skills",
+    "Skills": [
+        "معرفة بالقطع\nجادة استخدام الحاسب الالي\nلغة عربية وانجليزية"
+    ],
+    "Preferred": {
+        "Career Level": "Mid Career",
+        "Years of Experience": "Min: 3 Max: 20",
+        "Residence Location": "Saudi Arabia",
+        "Gender": "Male",
+        "Degree": "High school or equivalent",
+        "Age": "Min: 18 Max: 65"
+    },
+    "Data": {
+        "Job Location": "Buraidah, Saudi Arabia",
+        "Company Industry": "Automotive Repair, Spare Parts, & Support Services",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Sales",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$500 - $1,000",
+        "Number of Vacancies": "1"
+    }
+}

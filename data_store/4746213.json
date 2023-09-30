@@ -1,0 +1,23 @@
+{
+    "Job ID": "4746213",
+    "Description": "اعداد جميع مشروبات القهوة الساخنة والباردة\nاعداد مشروبات ساخنة وباردة\nكاشير\nتقديم المشروبات والمأكولاتSkills",
+    "Skills": [
+        "خبرة سنة في مجال اعداد القهوة\nحسن المظهر\nلغة انجليزية مستوى جيد"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 1 Max: 5",
+        "Residence Location": "Obhour Shamaliya, Jeddah , Saudi Arabia",
+        "Nationality": "Saudi Arabia",
+        "Degree": "High school or equivalent",
+        "Age": "Min: 21 Max: 31"
+    },
+    "Data": {
+        "Job Location": "Obhour Shamaliya, Jeddah , Saudi Arabia",
+        "Company Industry": "Catering, Food Service, & Restaurant; Food & Beverage Production",
+        "Company Type": "Unspecified",
+        "Job Role": "Hospitality and Tourism",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$500 - $1,000",
+        "Number of Vacancies": "3"
+    }
+}

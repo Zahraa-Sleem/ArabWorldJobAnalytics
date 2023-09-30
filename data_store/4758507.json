@@ -1,0 +1,21 @@
+{
+    "Job ID": "4758507",
+    "Description": "1-رفع طلب اصدار بطاقات وملصقات لسيارات الشركه عبر نظام ارامكو السعوديه .\n2-متابعة الطلبات والرد عليها عند اللزوم .\n3-مرافقة موظفين الشركه لأستخراج البطاقات (وسيلة النقل متوفرة).Skills",
+    "Skills": [
+        "1- سعودي الجنسيه ولديه رخصة قياده ساريه .\n2-العمر من 23-35.\n3-المؤهل العلمي (ثانويه عامه واعلى)\n4-مستوى اللغه الانجليزيه متوسط الى عالي."
+    ],
+    "Preferred": {
+        "Gender": "Male",
+        "Nationality": "Saudi Arabia",
+        "Age": "Min: 23 Max: 38"
+    },
+    "Data": {
+        "Job Location": "Khobar, Saudi Arabia",
+        "Company Industry": "Public Relations (PR)",
+        "Company Type": "Unspecified",
+        "Job Role": "Administration",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$1,500 - $2,000",
+        "Number of Vacancies": "1"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Job ID": "4759102",
+    "Description": "مسؤول امن وسلامه مهنيه حديث التخرج او خبره سنتين ويكون حاصل على شهاده معتمده في نفس المجالSkills",
+    "Skills": [
+        "حاصل على شهاده معتمده في نفس المجال"
+    ],
+    "Preferred": {
+        "Nationality": "Saudi Arabia",
+        "Age": "Min: 21 Max: 27"
+    },
+    "Data": {
+        "Job Location": "Saudi Arabia",
+        "Company Industry": "Retail & Wholesale",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Safety",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$500 - $1,000",
+        "Number of Vacancies": "1"
+    }
+}

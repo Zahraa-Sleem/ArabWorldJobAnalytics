@@ -1,0 +1,24 @@
+{
+    "Job ID": "4758535",
+    "Description": "A master tailor cuts and separates clothesSkills",
+    "Skills": [
+        "A master tailor he is good making and cutting all kinds of clothes such as trousers and blazers and shirts and tshirts and pants and abaya and kandoura and consultation"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 2 Max: 2",
+        "Residence Location": "Dubai, United Arab Emirates",
+        "Gender": "Female",
+        "Nationality": "India",
+        "Degree": "High school or equivalent",
+        "Age": "Min: 20 Max: 50"
+    },
+    "Data": {
+        "Job Location": "Dubai, United Arab Emirates",
+        "Company Industry": "Personal Services",
+        "Company Type": "Unspecified",
+        "Job Role": "Design, Creative, and Arts",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$500 - $1,000",
+        "Number of Vacancies": "1"
+    }
+}

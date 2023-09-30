@@ -1,0 +1,30 @@
+{
+    "Job ID": "4723119",
+    "Description": "Skills",
+    "Skills": [
+        "Requirements",
+        "Bachelor’s degree in computer science or related field.",
+        "Minimum 6 years of experience in implementation, and maintenance of VMware virtualization infrastructure within an organization",
+        "Strong knowledge of VMware vSphere virtualization technologies, including ESXi, vCenter Server, and vSphere networking.",
+        "Proficiency in virtual machine management, resource allocation, and performance optimization.",
+        "Experience with VMware infrastructure components like vSAN, vMotion, High Availability (HA), and Distributed Resource Scheduler (DRS).",
+        "Understanding of storage technologies, SAN/NAS concepts, and storage protocols (iSCSI, NFS).",
+        "Familiarity with backup and disaster recovery solutions for virtual environments.",
+        "Knowledge of virtual network concepts, VLANs, and network security within VMware.",
+        "Strong troubleshooting and problem-solving skills in virtualization and related technologies.",
+        "Excellent communication and collaboration skills to work effectively with cross-functional teams and stakeholders.",
+        "Ability to work in a fast-paced environment, handle multiple priorities, and meet deadlines.",
+        "Relevant certifications such as VMware Certified Professional (VCP) or VMware Certified Advanced Professional (VCAP) are a plus.",
+        "Locally available with valid QID and NOC"
+    ],
+    "Preferred": {},
+    "Data": {
+        "Job Location": "Doha, Qatar",
+        "Company Industry": "Business Consultancy Services",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

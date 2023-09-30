@@ -1,0 +1,14 @@
+{
+    "Job ID": "69875574",
+    "Description": "Job RequirementsRoleRun the production environment by monitoring availability and taking a holistic view of system health\nBuild software and systems to manage platform infrastructure and applications\nImprove reliability, quality, and time-to-market of our suite of software solutions\nMeasure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating for continual improvement\nProvide primary operational support and engineering for multiple large-scale distributed software applicationsResponsibilitiesGather and analyze metrics from operating systems as well as applications to assist in performance tuning and fault finding\nPartner with development teams to improve services through rigorous testing and release procedures\nParticipate in system design consulting, platform management, and capacity planning\nCreate sustainable systems and services through automation and uplifts\nBalance feature development speed and reliability with well-defined service-level objectives\nProvide technical guidance and lead development of enterprise software integration solutions.\nDesign, develop, implement and maintain shared engineering platforms, products and solutions.\nImplement technology solutions focusing on reuse and leveraging Chubb & Industry standards and best practices.\nInstitutionalize SRE Approach\nImprovise the Obserability and Monitoring\nEnsure SLA’s are met and Reduce the MTTR (Mean time to resolution)Required skills and qualifications·   10+ years of experience; hands-on·   Expertise in building microservices using Java/Spring/SpringBoot·   Expertise in Monitoring Tools: Splunk, Dynatrace, AppDynamics, Grafana, Prometheus, OpenSearch, Azure Monitor (Proficient in any 2 or more tools)·   Experience in messaging: Kafka·   Experience in ELK, Open Search·   Experience in Application/Infrastructure/Security Log Monitoring, Log Based Analytics Dashboard, Distributed Tracing and Cloud Native Application monitoring·   Experience with Filebeat or fluentbit, Logstash, Grafana,·   Exposure to Cloud (preferably Azure) environment·   Hands on experience in Containerization (Docker) & deployment using Docker Swarm / Kubernetes·   Knowledgeable in DevOps (Jenkins/Gitlabs/Azure DevOps etc.,)·   Strong in Development & Engineering practices·   (Nice to have) Experience in VolanteJob Details",
+    "Skills": [],
+    "Preferred": {},
+    "Data": {
+        "Job Location": "Hyderabad, Pakistan",
+        "Company Industry": "Other Business Support Services",
+        "Company Type": "Unspecified",
+        "Employment Type": "Unspecified",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "Unspecified"
+    }
+}

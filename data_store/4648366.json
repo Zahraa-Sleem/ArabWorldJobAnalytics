@@ -1,0 +1,22 @@
+{
+    "Job ID": "4648366",
+    "Description": "Skills",
+    "Skills": [
+        "التفهم الجيد لطبيعة عمله كسائق سيارة\nمهارات القيادة فى الظروف المناخية الصعبة\nمهارات القيادة لفترة طويله \nالإلمام بمبادىء الصيانة الأساسية للسيارات\nرخصة قيادة درجة اولى و درجة ثانية  \nالإنضباط فى المواعيد\nحسن المظهر\nخبرة فى وظيفة سائق\nيوجد تامينات وبدلات سفر"
+    ],
+    "Preferred": {
+        "Career Level": "Mid Career",
+        "Gender": "Male",
+        "Nationality": "Egypt",
+        "Age": "Min: 25 Max: 40"
+    },
+    "Data": {
+        "Job Location": "Cairo, Egypt",
+        "Company Industry": "Motor Vehicle Passenger Transport",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Logistics and Transportation",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "Unspecified"
+    }
+}

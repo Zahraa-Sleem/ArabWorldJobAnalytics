@@ -1,0 +1,19 @@
+{
+    "Job ID": "4730865",
+    "Description": "The Oracle Database Administrator will :\nMonitor and analyze database performance and ensure effective and efficient utilization of database and issues troubleshooting systems/processes.\nParticipate in the development and maintenance of strategic, architectural, and tactical plans for the database and data warehouse environment.\nProvide individual mentoring and training on databases and tools. Recommend, test, and evaluate new technologies, software tools, and required skill sets.\nImplement a Business Continuity solution for the database environment, including the installation and configuration of database software and replication processes.\nInstalling and Administering Oracle Database 11g, 12c, and 19c on \"Oracle Enterprise Linux, Redhat, CentOS, AIX, and Solaris\".\nUsers Maintenance (creation & assigning roles & Privs. & Other security features).\nMonitor, Optimize & Performance tuning of Production Databases\nReal Application Clusters (RAC) Installation, Administration and Deployment\nData Guard Administration\nOracle Enterprise Manager Cloud Control Installation and Administration.\nBackup & Recovery using RMAN and Data Pump.\nOracle WebLogic Server and Oracle Fusion Middleware (Forms & Reports) Installation, Administration and Deployment.\nOracle OVM Server and Manager Virtualization Administration.Skills",
+    "Skills": [
+        "Database Management: Proficiency in managing and administering Oracle database environments, including installation, configuration, upgrades, and patching.\nPerformance Tuning: Ability to monitor and optimize database performance using tools like Oracle Enterprise Manager and SQL Tuning Advisor.\nBackup and Recovery: Expertise in implementing and managing database backup and recovery strategies to ensure data integrity and availability.\nSecurity Management: Knowledge of database security best practices, including user management, role-based access control, and data encryption.\nSQL and PL/SQL: Strong command of SQL (Structured Query Language) and PL/SQL for querying, data manipulation, and stored procedures.\nHigh Availability: Experience with configuring and managing Oracle's high availability solutions, such as Oracle Real Application Clusters (RAC) and Data Guard.\nData Migration and Integration: Skill in migrating data between databases and integrating Oracle databases with other systems.\nTroubleshooting: Ability to diagnose and resolve database issues, errors, and anomalies in a timely manner."
+    ],
+    "Preferred": {
+        "Degree": "Bachelor's degree / higher diploma"
+    },
+    "Data": {
+        "Job Location": "6th of October, Cairo , Egypt",
+        "Company Industry": "IT Services",
+        "Company Type": "Unspecified",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

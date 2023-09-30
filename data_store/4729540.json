@@ -1,0 +1,22 @@
+{
+    "Job ID": "4729540",
+    "Description": "ابحث عن سائقSkills",
+    "Skills": [
+        "لدية رخصة قيادة عموم سارية المفعول\nويوجيد اللغة الانقلزية قليلل"
+    ],
+    "Preferred": {
+        "Career Level": "Entry Level",
+        "Years of Experience": "Min: 0 Max: 14",
+        "Residence Location": "Jeddah , Saudi Arabia",
+        "Age": "Min: 20 Max: 50"
+    },
+    "Data": {
+        "Job Location": "Jeddah , Saudi Arabia",
+        "Company Industry": "Mechanical Engineering",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Logistics and Transportation",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

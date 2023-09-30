@@ -1,0 +1,22 @@
+{
+    "Job ID": "4727328",
+    "Description": "We are hiring Sales Associates for one of our clients in Doha.Candidates who have the required qualifications and good experience may apply.Skills",
+    "Skills": [
+        "Minimum 3-5 years of experience in the same field.\nDiploma/bachelor's degree\nArabic nationality\nArabic & English fluency is a must.\nWith a valid visa and QID\nResiding in Qatar"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 3 Max: 5",
+        "Residence Location": "Qatar",
+        "Nationality": "All Arab Countries",
+        "Degree": "Bachelor's degree / higher diploma"
+    },
+    "Data": {
+        "Job Location": "Doha, Qatar",
+        "Company Industry": "Retail & Wholesale",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Sales",
+        "Employment Type": "Contractor",
+        "Monthly Salary Range": "$1,000 - $1,500",
+        "Number of Vacancies": "2"
+    }
+}

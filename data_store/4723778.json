@@ -1,0 +1,26 @@
+{
+    "Job ID": "4723778",
+    "Description": "TechnicianSkills",
+    "Skills": [
+        "- سعودي الجنسية",
+        "- شهادة الثانوية العامة أو دبلوم",
+        "- دبلوم في الهندسة الميكانيكية او الكهربائية",
+        "- Saudi National",
+        "- High school certificate or Diploma",
+        "- Diploma in Engineering, Mechanical, or electrical",
+        "- Strong work ethic with multi-tasking abilities"
+    ],
+    "Preferred": {
+        "Gender": "Male",
+        "Nationality": "Saudi Arabia"
+    },
+    "Data": {
+        "Job Location": "Khobar, Saudi Arabia",
+        "Company Industry": "Manufacturing",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Maintenance, Repair, and Technician",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

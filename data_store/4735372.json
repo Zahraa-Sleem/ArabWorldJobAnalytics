@@ -1,0 +1,27 @@
+{
+    "Job ID": "4735372",
+    "Description": "Skills",
+    "Skills": [
+        "Interested candidates should have :",
+        "Strong communication skills",
+        "Computer skills",
+        "Organizational skills",
+        "Customer service experience",
+        "Aesthetic and beauty industry knowledge"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 2",
+        "Gender": "Female",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Min: 25"
+    },
+    "Data": {
+        "Job Location": "Beirut, Lebanon",
+        "Company Industry": "Medical Clinic; Personal Care Centers",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Administration",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

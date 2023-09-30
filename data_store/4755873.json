@@ -1,0 +1,34 @@
+{
+    "Job ID": "4755873",
+    "Description": "looking for a candidate who is expertise with Web services concepts and XML. The main purpose would be to develop service interface and implementation. Provide technical leadership in developing middle tier SOA based applications using Java/ JEE, Apache CXF, SOA, WEB API, REST API, SOAP, XML, JSON and Entity framework.Skills",
+    "Skills": [
+        "Spring boot\nHibernate\nRestful web Services\nAngular\nHTML",
+        "·      7-10 years of significant IT experience in Java/Java EE technologies",
+        "·      Develop framework components, and expose back-end web-services",
+        "·      Exposing the backend system as REST and SOAP Web Services Build and manage re-usable assets in Service Layer (business layer) and persistence layer (DAO and Entity",
+        "Framework), and pattern library components.",
+        "·      Architecting, designing, developing and implementing the technical design for applications Interfacing with other data systems",
+        "·       Implement SOA Architecture",
+        "·      Utilizing Web Services.",
+        "·      Writing stored procedures, functions, packages",
+        "·      Programming secure web services",
+        "·      Conforming to the security concepts",
+        "·      Experience developing software in a Linux, Windows, and/or Mac environment",
+        "·      Familiarity with Jboss Application Server",
+        "·      Strong communication and organizational skills"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 5 Max: 9",
+        "Residence Location": "Saudi Arabia",
+        "Degree": "Bachelor's degree / higher diploma"
+    },
+    "Data": {
+        "Job Location": "Riyadh, Saudi Arabia",
+        "Company Industry": "IT Services",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "3"
+    }
+}

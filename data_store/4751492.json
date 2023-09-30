@@ -1,0 +1,22 @@
+{
+    "Job ID": "4751492",
+    "Description": "A company in Jeddah is required to work for itTwo employees are required1- Social Media Administrator2- Business developer of programsSalary from 3000 to 5000Work from 10 am to 5 pmthe conditionsHe is not registered with the Social SecurityHe has experience in software development and know-howThe salary is determined after sending the CV via e-mailSkills",
+    "Skills": [
+        "He is not registered with the Social Security",
+        "He has experience in software development"
+    ],
+    "Preferred": {
+        "Nationality": "Saudi Arabia",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Min: 18 Max: 30"
+    },
+    "Data": {
+        "Job Location": "Jeddah , Saudi Arabia",
+        "Company Industry": "Administration Support Services",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Sales",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "$1,000 - $1,500",
+        "Number of Vacancies": "2"
+    }
+}

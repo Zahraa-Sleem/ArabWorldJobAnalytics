@@ -1,0 +1,28 @@
+{
+    "Job ID": "4758555",
+    "Description": "Job SummarySenior Data Quality Assurance Analyst’s main focus will be around designing Data Quality policies, standards and best practices and making sure they’re enforced within assigned data domain. Senior Data Quality Assurance Analyst’s will also communicate to various stakeholders in business to define, document and implement Data Quality rules to help monitor and enhance key Data Quality metrics.Key AccountabilitiesDevelop Data Quality policies and standards\nDocument Data Quality rules\nImplement Data Quality checks using Data Quality Platform and other technologies\nInvestigate Data Quality incidents in order to find root cause and address it to right team\nDevelop Data Quality reporting and monitoring\nMake sure Data Quality KPI’s are met within assigned domain\nWork with Source system owners, Project Management Office, Data Team and others to ensure Data Quality incidents are resolved\nWork with Data Team, Project Management Office, IT, Ops and Business to make sure Data Quality Policies are met\nPromoting Data Quality standards and best practices across teams like Data Engineering, Business Intelligence, Regulatory Reporting, Ops and Business teams\nCommunicate with Data Owners and Data Consumers in order to gather their requirements regarding quality of data;Skills",
+    "Skills": [
+        "Other Accountabilities",
+        "Business Analytics\nData Warehousing\nData Quality\nSoftware and Tools knowledge\nBI tools (at least one of): IBM Cognos BI, Microsoft Power BI, Tableau, Qlik\nReporting (at least one of): SSRS, MicroStrategy\nETL (at least one of): SSIS, Informatica PowerCenter, IBM Datastage, Pentaho\nSQL – Advanced user (Stored Procedures, Window functions, Temp Tables, Recursive Queries)\nPython – Basic Automation\nKnowledge (at least one of) DQ platforms is a plus: IBM WKC+DataStage, Ataccama DQ, Infomatica DQ Platform\nStrong analytical and problem-solving skills and attention to details",
+        "Required Experience",
+        "Minimum of 4 years of experience in a data quality or data management role\nStrong understanding of data quality best practices\nExperience in Finance/Banking is a plus\nExperience with data governance and data quality tools is a plus.",
+        "Competencies",
+        "Adaptability/Flexibility\nCreativity/Innovation\nDecision Making/Judgment\nDependability\nInitiative\nIntegrity/Ethics\nProblem Solving/Analysis",
+        "Skills",
+        "Ability to interact with internal and external stakeholders\nAbility to work under pressure\nAccuracy and attention to detail",
+        "Education",
+        "Bachelor’s degree in Computer Science or equivalent"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 4"
+    },
+    "Data": {
+        "Job Location": "Qatar",
+        "Company Industry": "Banking",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Job ID": "4753818",
+    "Description": "We are hiring General Practitioners for one of our clients in Doha.Candidates who have the required qualifications and good experience may apply.Skills",
+    "Skills": [
+        "Minimum 3-5 years of experience.\nMBBS with QCHP license.\nQatar driving license preferred.\nPreferred Nationality: Philippines/India/Sri Lanka\nAge: Below 40\nWith a valid QID\nResiding in Qatar"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 3 Max: 5",
+        "Residence Location": "Qatar",
+        "Gender": "Male",
+        "Nationality": "India; Philippines; Sri Lanka",
+        "Degree": "Bachelor's degree / higher diploma",
+        "Age": "Max: 40"
+    },
+    "Data": {
+        "Job Location": "Doha, Qatar",
+        "Company Industry": "Oil & Gas",
+        "Company Type": "Recruitment Agency",
+        "Job Role": "Medical, Healthcare, and Nursing",
+        "Employment Type": "Contractor",
+        "Monthly Salary Range": "$3,000 - $4,000",
+        "Number of Vacancies": "4"
+    }
+}

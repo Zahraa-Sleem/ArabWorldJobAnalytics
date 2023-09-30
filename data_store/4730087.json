@@ -1,0 +1,20 @@
+{
+    "Job ID": "4730087",
+    "Description": "مطلوب للعمـل لشركة برمجيات بالسعودية (الرياض )\nمبرمج مواقعSkills",
+    "Skills": [
+        "- السن لا يزيد 30 سنه.\n- خبرة من 3 الي 5 سنوات"
+    ],
+    "Preferred": {
+        "Years of Experience": "Min: 3 Max: 5",
+        "Age": "Min: 30"
+    },
+    "Data": {
+        "Job Location": "Egypt",
+        "Company Industry": "Software Development",
+        "Company Type": "Employer (Private Sector)",
+        "Job Role": "Information Technology",
+        "Employment Type": "Full Time Employee",
+        "Monthly Salary Range": "Unspecified",
+        "Number of Vacancies": "1"
+    }
+}
