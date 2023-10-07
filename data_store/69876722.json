@@ -1,14 +1,1 @@
-{
-    "Job ID": "69876722",
-    "Description": "Welcome to the Societe Generale Careers website.Chargé de Recrutement ConfirméJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Casablanca, Morocco",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69876722", "Description": "Welcome to the Societe Generale Careers website.Charg\u00e9 de Recrutement Confirm\u00e9Job Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Casablanca, Morocco", "Company Industry": "Other Business Support Services", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

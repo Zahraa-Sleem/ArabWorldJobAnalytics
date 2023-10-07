@@ -1,14 +1,1 @@
-{
-    "Job ID": "69861667",
-    "Description": "Senior Officer- Portfolio SalesCompany DescriptionJob DescriptionSalesCustomer ServiceInternal CollaborationSelf-Management ResponsibilitiesQualificationsJob LocationJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Dubai, United Arab Emirates",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69861667", "Description": "Senior Officer- Portfolio SalesCompany DescriptionJob DescriptionSalesCustomer ServiceInternal CollaborationSelf-Management ResponsibilitiesQualificationsJob LocationJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Dubai, United Arab Emirates", "Company Industry": "Other Business Support Services", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

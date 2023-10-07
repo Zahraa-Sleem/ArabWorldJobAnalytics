@@ -1,14 +1,1 @@
-{
-    "Job ID": "69862223",
-    "Description": "O&M and Operations Manager M/FPosition descriptionJob titleContract typeJob descriptionProfilePosition locationJob locationCityCandidate criteriaMinimum level of education requiredMinimum level of experience requiredLanguagesOrganisationJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Doha, Qatar",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69862223", "Description": "O&M and Operations Manager M/FPosition descriptionJob titleContract typeJob descriptionProfilePosition locationJob locationCityCandidate criteriaMinimum level of education requiredMinimum level of experience requiredLanguagesOrganisationJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Doha, Qatar", "Company Industry": "Other Business Support Services", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

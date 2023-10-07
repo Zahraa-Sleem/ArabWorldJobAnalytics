@@ -1,14 +1,1 @@
-{
-    "Job ID": "69870070",
-    "Description": "Business Operations MgrCompany DescriptionJob DescriptionWhat you get to do in this role:QualificationsTo be successful in this role you have:Additional InformationJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Cairo, Egypt",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69870070", "Description": "Business Operations MgrCompany DescriptionJob DescriptionWhat you get to do in this role:QualificationsTo be successful in this role you have:Additional InformationJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Cairo, Egypt", "Company Industry": "Other Business Support Services", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

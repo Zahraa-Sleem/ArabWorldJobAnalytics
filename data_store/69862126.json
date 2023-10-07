@@ -1,14 +1,1 @@
-{
-    "Job ID": "69862126",
-    "Description": "Sales Operation Associate (English/German) SpeakerPosition:Job Description:Location:Time Type:Job Category:Recommended jobs based on your profileJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Casablanca, Morocco",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69862126", "Description": "Sales Operation Associate (English/German) SpeakerPosition:Job Description:Location:Time Type:Job Category:Recommended jobs based on your profileJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Casablanca, Morocco", "Company Industry": "Other Business Support Services", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

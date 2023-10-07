@@ -1,14 +1,1 @@
-{
-    "Job ID": "69863069",
-    "Description": "Mechanical Technical Office EngineerJob DescriptionSkills:EducationJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Egypt",
-        "Company Industry": "General Engineering Consultancy",
-        "Company Type": "Employer (Private Sector)",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69863069", "Description": "Mechanical Technical Office EngineerJob DescriptionSkills:EducationJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Egypt", "Company Industry": "General Engineering Consultancy", "Company Type": "Employer (Private Sector)", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

@@ -1,14 +1,1 @@
-{
-    "Job ID": "69857604",
-    "Description": "Job Details:Qualifications:Work Model for this RoleJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Bengaluru, India",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69857604", "Description": "Job Details:Qualifications:Work Model for this RoleJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Bengaluru, India", "Company Industry": "Other Business Support Services", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

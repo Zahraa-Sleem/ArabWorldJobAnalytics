@@ -14,8 +14,8 @@ def add_job_role(folder_name):
                 object=json.load(json_file)
             if  "Job Role" not in  object["Data"].keys():
                 object["Data"]["Job Role"]="Unspecified"
-                with open(folder_name+"/"+file, "w",encoding='utf-8') as json_file:
-                    json.dump(object)
+                with open(folder_name+"/"+file, "w") as json_file:
+                    json.dump(object,json_file)
                         
     
 

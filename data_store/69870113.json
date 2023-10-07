@@ -1,14 +1,1 @@
-{
-    "Job ID": "69870113",
-    "Description": "RS EngineerJob DescriptionPersonal SkillsTechnical SkillsJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Cairo, Egypt",
-        "Company Industry": "General Engineering Consultancy",
-        "Company Type": "Employer (Private Sector)",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69870113", "Description": "RS EngineerJob DescriptionPersonal SkillsTechnical SkillsJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Cairo, Egypt", "Company Industry": "General Engineering Consultancy", "Company Type": "Employer (Private Sector)", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

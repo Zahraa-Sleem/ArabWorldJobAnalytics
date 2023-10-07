@@ -1,14 +1,1 @@
-{
-    "Job ID": "69863172",
-    "Description": "DescriptionPosition at Mindshare WorldwideRole Title & Location:Reporting Line & Organization Profile:General Tasks:People Responsibilities:Skills:Job Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Jordan",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69863172", "Description": "DescriptionPosition at Mindshare WorldwideRole Title & Location:Reporting Line & Organization Profile:General Tasks:People Responsibilities:Skills:Job Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Jordan", "Company Industry": "Other Business Support Services", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

@@ -1,14 +1,1 @@
-{
-    "Job ID": "69870398",
-    "Description": "HQ:HQ:HQ:HQ:HQ:HQ:HQ:Job DetailsJob Title: Sales Closer / Sales PersonJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Saudi Arabia",
-        "Company Industry": "Marketing",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69870398", "Description": "HQ:HQ:HQ:HQ:HQ:HQ:HQ:Job DetailsJob Title: Sales Closer / Sales PersonJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Saudi Arabia", "Company Industry": "Marketing", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

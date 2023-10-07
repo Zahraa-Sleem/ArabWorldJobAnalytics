@@ -1,14 +1,1 @@
-{
-    "Job ID": "69863048",
-    "Description": "Technical Office Engineer-(Architecture)Job DescriptionSkillsEducationJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Egypt",
-        "Company Industry": "General Engineering Consultancy",
-        "Company Type": "Employer (Private Sector)",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69863048", "Description": "Technical Office Engineer-(Architecture)Job DescriptionSkillsEducationJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Egypt", "Company Industry": "General Engineering Consultancy", "Company Type": "Employer (Private Sector)", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

@@ -13,7 +13,6 @@ def load_scraped_data(folder_name):
     jobs=[]
     
     for file in all_files_and_directories:
-            print(file)
             with open(folder_name+"/"+file, "r",encoding='utf-8') as json_file:
                 jobs.append(json.load(json_file)["Data"]["Job Role"]) 
     
@@ -29,4 +28,4 @@ def count_titles(data):
        
  
 titles=load_scraped_data("data_store")
-print(len(titles))
+print(len([lm for lm in titles if lm=="Unspecified"]))

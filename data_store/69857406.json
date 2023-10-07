@@ -1,14 +1,1 @@
-{
-    "Job ID": "69857406",
-    "Description": "Training and qualificationTechnical knowledgeSoft skills/individual competenceExperienceBenefitsJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Cairo, Egypt",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Employer (Private Sector)",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69857406", "Description": "Training and qualificationTechnical knowledgeSoft skills/individual competenceExperienceBenefitsJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Cairo, Egypt", "Company Industry": "Other Business Support Services", "Company Type": "Employer (Private Sector)", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

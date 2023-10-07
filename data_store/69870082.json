@@ -1,14 +1,1 @@
-{
-    "Job ID": "69870082",
-    "Description": "DescriptionRequirementsBenefitsJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Egypt",
-        "Company Industry": "Sales Outsourcing",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69870082", "Description": "DescriptionRequirementsBenefitsJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Egypt", "Company Industry": "Sales Outsourcing", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

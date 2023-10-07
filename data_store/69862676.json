@@ -1,14 +1,1 @@
-{
-    "Job ID": "69862676",
-    "Description": "Training Manager page is loadedTraining ManagerJob Description:Company:Employment Type:Experience Level:Job Family:Job Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Riyadh, Saudi Arabia",
-        "Company Industry": "Management Consulting",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69862676", "Description": "Training Manager page is loadedTraining ManagerJob Description:Company:Employment Type:Experience Level:Job Family:Job Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Riyadh, Saudi Arabia", "Company Industry": "Management Consulting", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

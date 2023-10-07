@@ -1,14 +1,1 @@
-{
-    "Job ID": "69876112",
-    "Description": "Description du posteIntitulé du posteContratDurée du contrat (en mois)Contexte spécifique à la Business Line / RégionDescription de la missionProfilCritères candidatNiveau d'études min. requisNiveau d'expérience min. requisJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Bizerte, Tunisia",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69876112", "Description": "Description du posteIntitul\u00e9 du posteContratDur\u00e9e du contrat (en mois)Contexte sp\u00e9cifique \u00e0 la Business Line / R\u00e9gionDescription de la missionProfilCrit\u00e8res candidatNiveau d'\u00e9tudes min. requisNiveau d'exp\u00e9rience min. requisJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Bizerte, Tunisia", "Company Industry": "Other Business Support Services", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

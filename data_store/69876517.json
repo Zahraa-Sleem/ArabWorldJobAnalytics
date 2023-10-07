@@ -1,14 +1,1 @@
-{
-    "Job ID": "69876517",
-    "Description": "Senior Engineer- Identity and AuthenticationCompany DescriptionJob DescriptionJob Purpose:Key Accountabilities:Generic AccountabilityJob Context:Specific AccountabilityQualificationsJob LocationJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Abu Dhabi, United Arab Emirates",
-        "Company Industry": "General Engineering Consultancy",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69876517", "Description": "Senior Engineer- Identity and AuthenticationCompany DescriptionJob DescriptionJob Purpose:Key Accountabilities:Generic AccountabilityJob Context:Specific AccountabilityQualificationsJob LocationJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Abu Dhabi, United Arab Emirates", "Company Industry": "General Engineering Consultancy", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

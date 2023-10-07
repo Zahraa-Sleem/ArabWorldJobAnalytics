@@ -1,14 +1,1 @@
-{
-    "Job ID": "69873168",
-    "Description": "Installation, Configuration, Administration and Upgrade of all above mentioned operating System.\nProficient experience in using and configuring RedHat Satellite servers, yum repositories and Troubleshooting activities.\nStorage Administration in Linux (PV`s, VG`s, LV`s)\nSupport GUI and autofs mounts, installing packages using yum and AD authentication on Linux.\nAdministering Network File Systems Like NFS, CIFS and SMB file systems\nPatch management in Linux\nLinux Hardening\nVulnerabilities assessments and resolution on mentioned Linux Falvors\nProcess management with Changing Process Priorities with Nice and Renice\nNo downtime Kernel Patching with Linux Ksplice\nMonitoring Linux Servers with Different Native Linux Utilities\nTroubleshooting Linux with different Logs file.\nIntegrating the Linux with AD\n Installing and Supporting in Different Linux UtilitiesDocker:Docker engine installation and configurations\nManaging and docker images\nDeploying docker containers and managing persistent volumes with containers\nTroubleshooting docker container and checking container logsJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Abu Dhabi, United Arab Emirates",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Recruitment Agency",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69873168", "Description": "Installation, Configuration, Administration and Upgrade of all above mentioned operating System.\nProficient experience in using and configuring RedHat Satellite servers, yum repositories and Troubleshooting activities.\nStorage Administration in Linux (PV`s, VG`s, LV`s)\nSupport GUI and autofs mounts, installing packages using yum and AD authentication on Linux.\nAdministering Network File Systems Like NFS, CIFS and SMB file systems\nPatch management in Linux\nLinux Hardening\nVulnerabilities assessments and resolution on mentioned Linux Falvors\nProcess management with Changing Process Priorities with Nice and Renice\nNo downtime Kernel Patching with Linux Ksplice\nMonitoring Linux Servers with Different Native Linux Utilities\nTroubleshooting Linux with different Logs file.\nIntegrating the Linux with AD\n Installing and Supporting in Different Linux UtilitiesDocker:Docker engine installation and configurations\nManaging and docker images\nDeploying docker containers and managing persistent volumes with containers\nTroubleshooting docker container and checking container logsJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Abu Dhabi, United Arab Emirates", "Company Industry": "Other Business Support Services", "Company Type": "Recruitment Agency", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

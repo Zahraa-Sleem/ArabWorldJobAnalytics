@@ -1,14 +1,1 @@
-{
-    "Job ID": "69870481",
-    "Description": "Mechanical Electrical Plumbing (MEP) ContractNo SubcontractingJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Dubai, United Arab Emirates",
-        "Company Industry": "General Engineering Consultancy",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69870481", "Description": "Mechanical Electrical Plumbing (MEP) ContractNo SubcontractingJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Dubai, United Arab Emirates", "Company Industry": "General Engineering Consultancy", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

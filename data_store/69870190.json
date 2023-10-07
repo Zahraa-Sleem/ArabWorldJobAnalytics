@@ -1,14 +1,1 @@
-{
-    "Job ID": "69870190",
-    "Description": "COO Admin AssistantJob DescriptionPersonal SkillsTechnical SkillsEducationJob Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Cairo, Egypt",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Employer (Private Sector)",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69870190", "Description": "COO Admin AssistantJob DescriptionPersonal SkillsTechnical SkillsEducationJob Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Cairo, Egypt", "Company Industry": "Other Business Support Services", "Company Type": "Employer (Private Sector)", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}

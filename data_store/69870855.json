@@ -1,14 +1,1 @@
-{
-    "Job ID": "69870855",
-    "Description": "DescriptionPosition at Mindshare WorldwideCore responsibilities:Required skills / experience:Job Details",
-    "Skills": [],
-    "Preferred": {},
-    "Data": {
-        "Job Location": "Amman, Jordan",
-        "Company Industry": "Other Business Support Services",
-        "Company Type": "Unspecified",
-        "Employment Type": "Unspecified",
-        "Monthly Salary Range": "Unspecified",
-        "Number of Vacancies": "Unspecified"
-    }
-}
+{"Job ID": "69870855", "Description": "DescriptionPosition at Mindshare WorldwideCore responsibilities:Required skills / experience:Job Details", "Skills": [], "Preferred": {}, "Data": {"Job Location": "Amman, Jordan", "Company Industry": "Other Business Support Services", "Company Type": "Unspecified", "Employment Type": "Unspecified", "Monthly Salary Range": "Unspecified", "Number of Vacancies": "Unspecified", "Job Role": "Unspecified"}}
